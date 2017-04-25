@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>我是安小恰的首页 - 穷游网，旅途永无穷尽</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.qyer.com/u/2505246/" /><meta http-equiv="Cache-Control" content="no-transform" /><link rel="shortcut icon" href="http://www.qyer.com/favicon.ico" />
+<script>
+window.QYER = {
+    uid:[0][0]|0
+};
+window.__qRequire__ = {
+    version: '1476167820',
+    combineCSS: []
+};
+</script>
+
+
+
+<link rel="stylesheet" href="http://user.qyerstatic.com/css/base_css.aa34ca3be0292dcb3c11fca7f3fc3fdf.css" />
+
+
+
+
+
+
+<link rel="stylesheet" href="http://user.qyerstatic.com/css/user_css.26b85b7ab9eec3369a6420ca59ca0b73.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://user.qyerstatic.com/js/user_js.f399819e0d8ff5a141cce5b58db8eea9.js"></script>
+</head>
+<body>
+
+
+
+
+<script>window.QYER={uid:[0][0]||0};</script>
+
+
+
+
+
+<link href="//static.qyer.com/models/common/component/headfoot/dist/headerfoot_black.min-b9b248b9e55e7c6d0d4563ef311d9f73.css"  rel="stylesheet" />
+<script src="//static.qyer.com/models/common/component/headfoot/dist/headerfoot_black.min-2112844d6706e0f715527e4514054020.js" async="async"></script>
+
+
+
+
+
+
+
+
+<div class="q-layer-header">
+    <div class="header-inner">
+        <a data-bn-ipg="head-logo" href="http://www.qyer.com"><img class="logo" src="//static.qyer.com/models/common/component/headfoot/icon/logo_116x36.png" width="58" height="18" /></a>
+        <div class="nav">
+            <ul class="nav-ul">
+                <li class="nav-list "><a class="nav-span" href="http://place.qyer.com/" data-bn-ipg="head-nav-place" title="穷游目的地">目的地</a></li>
+                <li class="nav-list "><a class="nav-span" href="http://guide.qyer.com/" data-bn-ipg="head-nav-guide" title="穷游锦囊">锦囊</a></li>
+                <li class="nav-list nav-list-plan ">
+                    <a class="nav-span" href="http://plan.qyer.com/" data-bn-ipg="head-nav-plan" title="穷游行程助手">行程助手</a>
+                </li>
+                <li class="nav-list nav-list-layer  ">
+                    <a class="nav-span" href="http://bbs.qyer.com/" data-bn-ipg="head-nav-community" title="穷游论坛">社区<i class="iconfont icon-jiantouxia"></i></a>
+                    <div class="q-layer q-layer-nav q-layer-arrow">
+                        <ul>
+                            <li class="nav-list-layer">
+                                <a href="http://bbs.qyer.com" data-bn-ipg="head-nav-bbs" title="穷游论坛"><i class="iconfont icon-luntan"></i> 旅行论坛 <i class="iconfont icon-jiantouyou"></i></a>
+                                <div class="q-layer q-layer-section">
+                                    <div class="q-layer">
+                                        <div class="section-title">
+                                            <a class="more" href="http://bbs.qyer.com">全部版块<i class="iconfont icon-jiantouyou"></i></a>
+                                            <span>热门版块</span>
+                                        </div>
+
+
+                                                                                                                           <dl class="section-item">
+                                             <dt>兴趣小组</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-2" href="http://bbs.qyer.com/forum-2-1.html">结伴同游</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-3" href="http://bbs.qyer.com/forum-3-1.html">签证</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-22" href="http://bbs.qyer.com/forum-22-1.html">旅行摄影</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-88" href="http://bbs.qyer.com/forum-88-1.html">潜水俱乐部</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-122" href="http://bbs.qyer.com/forum-122-1.html">带孩子旅行</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-49" href="http://bbs.qyer.com/forum-49-1.html">明信片</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-100" href="http://bbs.qyer.com/forum-100-1.html">旅行购物</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  <dl class="section-item">
+                                             <dt>穷游欧洲</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-14" href="http://bbs.qyer.com/forum-14-1.html">法国/摩纳哥</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-12" href="http://bbs.qyer.com/forum-12-1.html">德国</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-16" href="http://bbs.qyer.com/forum-16-1.html">英国/爱尔兰</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-15" href="http://bbs.qyer.com/forum-15-1.html">瑞士/列支敦士登</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-162" href="http://bbs.qyer.com/forum-162-1.html">土耳其</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-25" href="http://bbs.qyer.com/forum-25-1.html">挪威/瑞典/芬兰/丹麦/冰岛</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-13" href="http://bbs.qyer.com/forum-13-1.html">意大利/梵蒂冈/圣马力诺/马耳他</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  <dl class="section-item">
+                                             <dt>穷游亚洲</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-52" href="http://bbs.qyer.com/forum-52-1.html">台湾</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-57" href="http://bbs.qyer.com/forum-57-1.html">日本</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-106" href="http://bbs.qyer.com/forum-106-1.html">泰国</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-164" href="http://bbs.qyer.com/forum-164-1.html">新加坡</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-165" href="http://bbs.qyer.com/forum-165-1.html">斯里兰卡</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-156" href="http://bbs.qyer.com/forum-156-1.html">韩国/朝鲜</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-163" href="http://bbs.qyer.com/forum-163-1.html">香港/澳门</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-108" href="http://bbs.qyer.com/forum-108-1.html">马来西亚/文莱</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-175" href="http://bbs.qyer.com/forum-175-1.html">柬埔寨</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-104" href="http://bbs.qyer.com/forum-104-1.html">马尔代夫</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-177" href="http://bbs.qyer.com/forum-177-1.html">缅甸</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-59" href="http://bbs.qyer.com/forum-59-1.html">伊朗</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-103" href="http://bbs.qyer.com/forum-103-1.html">印度/孟加拉</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  <dl class="section-item">
+                                             <dt>穷游美洲</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-54" href="http://bbs.qyer.com/forum-54-1.html">加拿大</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-53" href="http://bbs.qyer.com/forum-53-1.html">美国</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-168" href="http://bbs.qyer.com/forum-168-1.html">中美</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-55" href="http://bbs.qyer.com/forum-55-1.html">南美/南极</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  <dl class="section-item">
+                                             <dt>穷游大洋洲</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-56" href="http://bbs.qyer.com/forum-56-1.html">澳大利亚</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-83" href="http://bbs.qyer.com/forum-83-1.html">新西兰</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-178" href="http://bbs.qyer.com/forum-178-1.html">太平洋海岛</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  <dl class="section-item">
+                                             <dt>穷游非洲</dt>
+                                             <dd>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-173" href="http://bbs.qyer.com/forum-173-1.html">东非地区</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-174" href="http://bbs.qyer.com/forum-174-1.html">非洲海岛</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-86" href="http://bbs.qyer.com/forum-86-1.html">北非地区</a>
+                                                                                                  <a data-bn-ipg="index-head-bbs-hotboard-60" href="http://bbs.qyer.com/forum-60-1.html">非洲其他国家</a>
+                                                                                              </dd>
+                                         </dl>
+                                                                                  
+
+
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="http://ask.qyer.com/" data-bn-ipg="head-nav-ask" title="穷游问答"><i class="iconfont icon-wenda"></i> 旅行问答</a></li>
+                            <li><a href="http://jne.qyer.com/" data-bn-ipg="head-nav-qlab" title="JNE旅行生活美学" target="_blank"><i class="iconfont icon-shenghuoshiyanshi"></i> JNE旅行生活美学</a></li>
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="nav-list nav-list-zuishijie ">
+                    <a class="nav-span" href="http://z.qyer.com/" data-bn-ipg="head-nav-lastminute" title="最世界·自由行">最世界<span class="point">·</span>自由行</a>
+                    <div>
+                        <img class="gif1" src="//static.qyer.com/models/common/component/headfoot/icon/gif.gif" height="19" width="44" >
+                    </div>
+                </li>
+                
+                <li class="nav-list "><a class="nav-span" href="http://flight.qyer.com/" data-bn-ipg="head-nav-plane" title="机票">机票</a></li>
+                
+                <li class="nav-list "><a class="nav-span" href="http://hotel.qyer.com/" data-bn-ipg="head-nav-hotel" title="穷游酒店">酒店</a></li>
+                
+                <li class="nav-list nav-list-layer nav-list-yuding">
+                    <span class="nav-span">预订<i class="iconfont icon-jiantouxia"></i></span>
+                    <div class="q-layer q-layer-nav q-layer-arrow">
+                        <ul>
+                            <!-- <li><a href="http://flight.qyer.com/" data-bn-ipg="head-nav-plane" title="机票"><i class="iconfont icon-feiji"></i> 机票</a></li> -->
+                            <li><a href="http://www.qyer.com/hoteldeal/" data-bn-ipg="head-nav-hoteldeal" title="特价酒店"><i class="iconfont icon-chengshi"></i> 特价酒店</a></li>
+
+                            <li><a href="http://bx.qyer.com/" data-bn-ipg="head-nav-insure" title="保险"><i class="iconfont icon-baoxian"></i> 保险</a></li>
+                            <!--
+                            <li><a href="http://z.qyer.com/visa/" data-bn-ipg="head-nav-visa" title="签证"><i class="iconfont icon-visa"></i> 签证</a></li>
+                            -->
+
+                            <li><a href="http://www.qyer.com/shop/" data-bn-ipg="head-nav-shop" title="华人旅馆"><i class="iconfont icon-huarenlvguan"></i> 华人旅馆</a></li>
+                            <!--<li><a href="http://www.qyer.com/goto.php?hotel_name=Airbnb&url=https%3A%2F%2Fzh.airbnb.com%2Fstay%2Fqyer%2F%3Faf%3D18864084%26c%3DQyerReservation" target="_blank" data-bn-ipg="head-nav-airbnb" title="当地人家"><i class="iconfont icon-airbnb"></i> 当地人家</a></li>-->
+                            <li><a href="http://z.qyer.com/cruise/all_0_0_0_0_0_0_0/" data-bn-ipg="head-nav-liner" title="邮轮"><i class="iconfont icon-lunchuan"></i> 邮轮</a></li>
+                            <li><a href="http://car.qyer.com/" data-bn-ipg="head-nav-car" title="租车"><i class="iconfont icon-zuche"></i> 租车</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- <li class="nav-list"><a class="nav-span icon-phone-a" href="http://app.qyer.com"><i class="iconfont icon-phone"></i>手机穷游</a></li> -->
+            </ul>
+        </div>
+        <div class="fun">
+            <div id="siteSearch" class="nav-search">
+                <form action="http://search.qyer.com/index" method="get">
+                    <input class="txt" name="wd" type="text" autocomplete="off">
+                    <button class="btn" type="submit"><i class="iconfont icon-sousuo"></i><span>搜索</span></button>
+                </form>
+            </div>
+            <div id="js_qyer_header_userStatus" class="status">
+              <div class="login show">
+                    <a class="otherlogin-link" href="javascript:;" url="http://www.qyer.com/u/2505246" rel="noflow" data-bn-ipg="index-head-un-qq" data-type="qq"><i class="iconfont icon-qq"></i></a>
+                    <a class="otherlogin-link" href="javascript:;" url="http://www.qyer.com/u/2505246" rel="noflow" data-bn-ipg="index-head-un-weibo" data-type="weibo"><i class="iconfont icon-weibo"></i></a>
+                    <a class="otherlogin-link" href="javascript:;" url="http://www.qyer.com/u/2505246" rel="noflow" data-bn-ipg="index-head-un-wechat" data-type="weixin"><i class="iconfont icon-weixin"></i></a>
+                    
+                    <a href="http://login.qyer.com/?action=register&refer=http://www.qyer.com%2Fu%2F2505246" data-bn-ipg="index-head-un-register">注册</a>
+                    <a href="http://login.qyer.com/?action=login&refer=http://www.qyer.com%2Fu%2F2505246" data-bn-ipg="index-head-un-login">登录</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--token:d41d8cd98f00b204e9800998ecf8427e--><!--首页头部 -->
+<div class="u_ind_topbar">
+    <!--用户封面 -->
+    <div class="u_ind_banner_fix">
+        <!--用户封面图 -->
+        <div class="u_ind_banner" id="u_ind_banner">
+            <div class="img">
+                <img src="http://pic1.qyer.com/userbg/a2/9d/2505246/1468373133/index/980x500?v=1468373133" width="980" height="480" onerror="this.src='http://static.qyer.com/images/user2/index/headImage_lite.png'"  alt="" />
+            </div>
+
+            <!--背景渐变 -->
+            <div class="ind_banner_bg">背景渐变</div>
+                        <!--写简介 -->
+            <div class="write" style="display:none;">
+                <a href="javascript:void(0);" onclick="$('._jstext,.infos', '#u_ind_banner').hide();$('._jsedit_text', '#u_ind_banner').show();" class="border_white"><span class="back_gray"><span>写简介</span></span></a>
+            </div>
+            <!--用户签名 -->
+                        <div class="infos">
+                            <div class="back_gray clearfix">
+                    <!--用户签名内容 -->
+                    <!--修改信息按钮 -->
+                                                                                </div>
+            </div>
+            <!--修改用户信息 -->
+            <div class="edit none _jsedit_text">
+                <p>
+                    <!--限制字数70个字 -->
+                  <textarea class="edit_text" id="_jsmemberbio"></textarea>
+                </p>
+                <a href="javascript:void(0);" class="cWhite _jseditsubmit" >确定</a>
+                <a href="javascript:void(0);" class="cLightgray" onclick="$('._jsedit_text', '#u_ind_banner').hide();$('._jstext,.infos', '#u_ind_banner').show();">取消</a>
+            </div>
+            <script>
+            //修改签名
+            jQuery(function($){
+                $('._jseditsubmit').click(function(){
+                    $('._jsedit_text').hide();$('._jstext,.infos').show();
+                    var str = $('#_jsmemberbio').val();
+                    if(!str){
+                        qyerUI.message({msg: '字数不能为空！', type:"warn"});
+                        return;
+                    }
+                    if(str.length>140){
+                        qyerUI.message({msg: '字数不能超过70个字！', type:"warn"});
+                        return;
+                    }
+                    $.post('/api.php?action=selfinfo',{str:str},function(rs){
+                        rs = $.parseJSON(rs);
+                        if(rs.error_code == 0){
+                            $('._jstext p').html(rs.data);
+                        }else{
+                            qyerUI.message({msg: rs.data.msg, type:"warn"});
+                        }
+                    });
+                });
+                //字数控制
+                $("#_jsmemberbio").keyup(function(){
+                    var val = $("#_jsmemberbio").val();
+                    var len = util.getwordlen(val);
+                    if(len > 140)
+                    {
+                        $("#_jsmemberbio").val(val.gbtrim(140));
+                    }
+                });
+            });
+            </script>
+            <!--loading -->
+            <div class="loading_layer_bg"></div>
+            <div class="loading">
+                <div class="loadlayer">
+                    <strong class="fontArial">0%</strong>
+                    <div class="loadBox">
+                        <div class="bg">
+                            <div class="loadbfb" style="width:0%;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--用户信息 -->
+    <div class="u_ind_head">
+        <!--用户图像 -->
+        <div class="face">
+            <div class="img">
+                <img src="http://pic3.qyer.com/avatar/002/50/52/46/index/200?v=" width="120" height="120" alt="" />
+                                            </div>
+            <!--没有图像 -->
+            <div class="img_edit" style="display:none;">
+                <img src="http://static.qyer.com/images/user2/index/face_default.png" width="120" height="120" alt="" />
+                <a href="#" title="编辑图像" onfocus="this.blur();"></a>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <!--用户资料 -->
+        <div class="infos">
+            <h3 class="name">
+                <strong data-bn-ipg="usercenter-username" class="fontYaHei fb">我是安小恰</strong>
+                                                <span class="icon_gender_she" title="女"></span>
+                
+                                                    <a href="javascript:void(0);" data-uid="2505246" data-relate="1" data-each="0"  class="ui_attent_btn _js_follow_func" onblur="this.blur();">关注按钮</a>
+                
+                    <a href="javascript:void(0)" data-bn-ipg="usercenter-msg" data-relate="" data-uid="2505246" class="ui_private_btn _jsaddmsg" onblur="this.blur();">留言</a>
+                            </h3>
+            <div class="text fontSong">等级：<a data-bn-ipg="usercenter-grade" href="http://www.qyer.com/u/2505246/level" class="fb cBlue pr20">4袋长老</a></div>
+        </div>
+        <div class="clear"></div>
+        <!--个人中心导航 -->
+        <!--个人中心导航 -->
+<div class="menu clearfix">
+    <ul class="fontSong">
+        <li data-bn-ipg="usercenter-tab-home" class="current"><a href="http://www.qyer.com/u/2505246" class="a_list">首页</a></li>
+        <li data-bn-ipg="usercenter-tab-footprint"  >
+            <a href="http://www.qyer.com/u/2505246/footprint" class="a_list">足迹与点评</a>
+                    </li>
+                <li data-bn-ipg="usercenter-tab-thread"  ><a href="http://www.qyer.com/u/2505246/travel" class="a_list">帖子</a></li>
+        <li data-bn-ipg="usercenter-tab-album" ><a href="http://www.qyer.com/pictrip/2505246/" class="a_list">照片</a></li>
+        <li data-bn-ipg="usercenter-tab-ask" ><a href="http://www.qyer.com/u/2505246/ask" class="a_list">问答</a></li>
+        <li data-bn-ipg="usercenter-tab-plan" ><a href="http://www.qyer.com/u/2505246/plan" class="a_list">行程计划</a></li>
+        <li data-bn-ipg="usercenter-tab-order" ><a href="http://www.qyer.com/u/lm-order/" class="a_list">最世界订单</a></li>
+        <li class="more_select">
+            <a href="#" class="a_list"><span>更多</span></a>
+            <div class="more_item">
+                <a data-bn-ipg="usercenter-tab-footprint" href="http://www.qyer.com/u/2505246/mguide">微锦囊</a>
+                                <!-- <a data-bn-ipg="usercenter-tab-medal"  href="http://www.qyer.com/u/2505246/badgegalary">勋章</a> -->
+            </div>
+        </li>
+    </ul>
+        <a data-bn-ipg="usercenter-profile" href="http://www.qyer.com/u/2505246/profile" class="data">个人资料</a>
+    </div>
+<script>
+/**
+ * 认证头像图标tip
+ */
+$(function (){
+if (typeof requirejs !== 'undefined'){
+    requirejs(['web_old_tooltips'], function (){
+        $('[data-toggle="tooltip"]').tooltip({
+            container: 'body'
+        });
+    });
+}
+});
+</script>
+    </div>
+</div>
+<!--首页头部 -->
+<!--首页内容 -->
+<div class="u_ind_main clearfix">
+    <!--首页侧边栏 -->
+    <!--首页侧边栏 -->
+<div class="u_ind_sidebar">
+    <!--侧边操作列表 -->
+        <!--我最了解的城市 -->
+        <!--最近来访 -->
+        <div class="lately">
+        <!--标题 -->
+        <div class="title">
+            <!--标题文字 -->
+            <h3 class="text">最近来访</h3>
+            <!--翻页 -->
+                        <span class="fr cLightgray">累计访问（19）</span>
+        </div>
+        <!--内容 -->
+        <div data-bn-ipg="usercenter-guest" class="lately_item">
+            <ul class="clearfix" id="_js_visit_container">
+            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/8093188"  class="_js_hover_user_info _js_face_usercard" data-uid="8093188" data-time="1475854893"><img src="http://static.qyer.com/images/user2/avatar/middle4.png" width="30" height="30" alt="1475854893" /></a></div></li><li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/1385379"  class="_js_hover_user_info _js_face_usercard" data-uid="1385379" data-time="1474885552"><img src="http://pic1.qyer.com/avatar/001/38/53/79/index/120?v=1438938401" width="30" height="30" alt="1474885552" /></a></div></li><li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/1845329"  class="_js_hover_user_info _js_face_usercard" data-uid="1845329" data-time="1473997935"><img src="http://static.qyer.com/images/user2/avatar/middle6.png" width="30" height="30" alt="1473997935" /></a></div></li><li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/2462323"  class="_js_hover_user_info _js_face_usercard" data-uid="2462323" data-time="1473080985"><img src="http://pic4.qyer.com/avatar/002/46/23/23/1464781467/index/120?v=1464781468" width="30" height="30" alt="1473080985" /></a></div></li><li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/7645507"  class="_js_hover_user_info _js_face_usercard" data-uid="7645507" data-time="1472100976"><img src="http://static.qyer.com/images/user2/avatar/middle6.png" width="30" height="30" alt="1472100976" /></a></div></li>
+            </ul>
+        </div>
+    </div>
+        <!--我的关注 -->
+    <div class="attent">
+        <!--标题 -->
+        <div class="title">
+            <!--标题文字 -->
+                        <h3 class="text">Ta的关注</h3>
+                        <!--数字 -->
+            <em class="em">3</em>
+            <a data-bn-ipg="usercenter-more-follow" href="http://www.qyer.com/u/2505246/follow" class="fr u_ind_more">更多</a>
+        </div>
+        <!--内容 -->
+                <div data-bn-ipg="usercenter-follower" class="attent_item">
+            <ul class="clearfix">
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/7645507" class="_js_hover_user_info _js_face_usercard" data-uid="7645507"><img src="http://static.qyer.com/images/user2/avatar/middle6.png" width="30" height="30" alt="" /></a></div></li>
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/8089960" class="_js_hover_user_info _js_face_usercard" data-uid="8089960"><img src="http://static.qyer.com/images/user2/avatar/middle5.png" width="30" height="30" alt="" /></a></div></li>
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/6533942" class="_js_hover_user_info _js_face_usercard" data-uid="6533942"><img src="http://pic1.qyer.com/avatar/006/53/39/42/1468371077/index/120?v=1468371077" width="30" height="30" alt="" /></a></div></li>
+                        </ul>
+        </div>
+            </div>
+    <!--我的粉丝 -->
+    <div class="attent">
+        <!--标题 -->
+        <div class="title">
+            <!--标题文字 -->
+                        <h3 class="text">Ta的粉丝</h3>
+                        <!--数字 -->
+            <em class="em">3</em>
+            <a data-bn-ipg="usercenter-more-fan" href="http://www.qyer.com/u/2505246/fans" class="fr u_ind_more">更多</a>
+        </div>
+        <!--内容 -->
+                <div data-bn-ipg="usercenter-fan" class="attent_item">
+            <ul class="clearfix">
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/7645507" class="_js_hover_user_info _js_face_usercard" data-uid="7645507"><img src="http://static.qyer.com/images/user2/avatar/middle6.png" width="30" height="30" alt="" /></a></div></li>
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/8089960" class="_js_hover_user_info _js_face_usercard" data-uid="8089960"><img src="http://static.qyer.com/images/user2/avatar/middle5.png" width="30" height="30" alt="" /></a></div></li>
+                            <li><div class="ui_headPort"><a target="_blank" href="http://www.qyer.com/u/6533942" class="_js_hover_user_info _js_face_usercard" data-uid="6533942"><img src="http://pic2.qyer.com/avatar/006/53/39/42/1468371077/index/120?v=1468371077" width="30" height="30" alt="" /></a></div></li>
+                        </ul>
+        </div>
+            </div>
+    <!--个人中心广告区 -->
+
+    <div class="banner">
+        <iframe id='a7b0d72b' name='a7b0d72b' src='http://ad.qyer.com/www/delivery/afr.php?zoneid=404&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='270' height='270'><a href='http://ad.qyer.com/www/delivery/ck.php?n=a94a6226&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.qyer.com/www/delivery/avw.php?zoneid=404&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a94a6226' border='0' alt='' /></a></iframe>
+    </div>
+
+</div>
+<script type="text/javascript">
+    var _js_visit_key_now =0;//当前页面key 最多三页
+    var _js_visit_key_count =1;//有几组
+    var _js_visit_con_content = ["<li><div class=\"ui_headPort\"><a target=\"_blank\" href=\"http:\/\/www.qyer.com\/u\/8093188\"  class=\"_js_hover_user_info _js_face_usercard\" data-uid=\"8093188\" data-time=\"1475854893\"><img src=\"http:\/\/static.qyer.com\/images\/user2\/avatar\/middle4.png\" width=\"30\" height=\"30\" alt=\"1475854893\" \/><\/a><\/div><\/li><li><div class=\"ui_headPort\"><a target=\"_blank\" href=\"http:\/\/www.qyer.com\/u\/1385379\"  class=\"_js_hover_user_info _js_face_usercard\" data-uid=\"1385379\" data-time=\"1474885552\"><img src=\"http:\/\/pic1.qyer.com\/avatar\/001\/38\/53\/79\/index\/120?v=1438938401\" width=\"30\" height=\"30\" alt=\"1474885552\" \/><\/a><\/div><\/li><li><div class=\"ui_headPort\"><a target=\"_blank\" href=\"http:\/\/www.qyer.com\/u\/1845329\"  class=\"_js_hover_user_info _js_face_usercard\" data-uid=\"1845329\" data-time=\"1473997935\"><img src=\"http:\/\/static.qyer.com\/images\/user2\/avatar\/middle6.png\" width=\"30\" height=\"30\" alt=\"1473997935\" \/><\/a><\/div><\/li><li><div class=\"ui_headPort\"><a target=\"_blank\" href=\"http:\/\/www.qyer.com\/u\/2462323\"  class=\"_js_hover_user_info _js_face_usercard\" data-uid=\"2462323\" data-time=\"1473080985\"><img src=\"http:\/\/pic4.qyer.com\/avatar\/002\/46\/23\/23\/1464781467\/index\/120?v=1464781468\" width=\"30\" height=\"30\" alt=\"1473080985\" \/><\/a><\/div><\/li><li><div class=\"ui_headPort\"><a target=\"_blank\" href=\"http:\/\/www.qyer.com\/u\/7645507\"  class=\"_js_hover_user_info _js_face_usercard\" data-uid=\"7645507\" data-time=\"1472100976\"><img src=\"http:\/\/static.qyer.com\/images\/user2\/avatar\/middle6.png\" width=\"30\" height=\"30\" alt=\"1472100976\" \/><\/a><\/div><\/li>"];//内容
+    $(function(){
+        $("#_js_visit_down").click(function(){
+            $(this).removeClass("null");
+            $("#_js_visit_up").removeClass("null");
+            _js_visit_key_now ++;
+            if(_js_visit_key_now>=_js_visit_key_count-1){
+                _js_visit_key_now = _js_visit_key_count-1;
+                $(this).addClass("null");
+                $("#_js_visit_container").html(_js_visit_con_content[_js_visit_key_now]);
+                return;
+            }
+            $("#_js_visit_container").html(_js_visit_con_content[_js_visit_key_now]);
+        });
+        $("#_js_visit_up").click(function(){
+            $(this).removeClass("null");
+            $("#_js_visit_down").removeClass("null");
+
+            _js_visit_key_now --;
+            if(_js_visit_key_now<=0){
+                _js_visit_key_now =0;
+                $(this).addClass("null");
+                $("#_js_visit_container").html(_js_visit_con_content[_js_visit_key_now]);
+                return;
+            }
+            $("#_js_visit_container").html(_js_visit_con_content[_js_visit_key_now]);
+        });
+        $('.u_ind_sidebar .entry_photo').click(function(){
+            requirejs(['web_ct_footprint_comment'], function (fpComm){
+            fpComm.commShow({
+                source_type: 'C-profile-allBeenBatchComment' // 可选
+            });
+        });
+
+        });
+    });
+</script>    <!--首页分类列表 -->
+    <div class="u_ind_content">
+        <!--新手引导 -->
+        
+        <!--首页地图 -->
+        <!--首页地图 -->
+<script type="text/javascript">
+var map_svg_init_config = {width:678,height:352,initialZoom: -4, minZoom:-4,maxZoom:5,initialPosition: { x:15, y: -36},iscity:true};
+var map_beentocountry = ["215","531","521","202","15","200","424","427","14","240"];
+var map_beentocity = {"55":{"id":"55","cityname":"\u66fc\u8c37","cityname_en":"Bangkok","cityname_py":"mangu","cityname_url":"","countryid":"215","tag_ids":"11601,11604,11605,11606,11607,11608,11609,11610,11611,11619,10144,10143,10147,11620,11621,11622,11625","iscapital":"1","lat":"13.741551","lng":"100.510368","zoom":"9","timezone":"UTC+7","currency":"\u6cf0\u94e2,THB","author":"14","population":"816","area":"1568","language":"\u6cf0\u8bed","pressure":"220v","rate":"50Hz","power_supply":"A,B,C","phone_zone":"2","datetime":"1328604239","lastauthor":"760","lastdate":"1476201590","bbs_url":"http:\/\/bbs.qyer.com\/forum-106-1.html","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=986e7f1b40ea6817fadcec11b1d18b10;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-3414440;origin=disamb;srhash=3269747950;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=1","visa_url":"http:\/\/qz.go2eu.com\/visa\/Asia\/Thailand\/","status":"1","bestmonths":"1,2,3,4,11,12","plantocounts":"57738","beentocounts":"120798","livedcounts":"558","default_img":"","cost":"300","playdays":"4","fundays":"2.65","plancounts":"38085","visatype":"1","adminid":null,"bbsuse":"1","hotpoicounts":"9","oneday_num":"1","alias":"","hotel_num":"11","importips":"","introduction":"","isarea":"0","relecity":"14348","relecountry":"","yahoo_city_id":"1225448","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11329\",\"n\":\"\",\"on\":\"\u9526\u56ca\u7cbe\u9009\u9910\u5385\"},{\"i\":\"11294\",\"n\":\"\u66fc\u8c37\u9910\u5385\u7f8e\u5473\u699c\",\"on\":\"\u7f8e\u98df\u597d\u8bc4\u699c\"},{\"i\":\"256\",\"n\":\"\u4f20\u7edf\u6cf0\u83dc\",\"on\":\"\u6cf0\u56fd\u83dc\"},{\"i\":\"10966\",\"n\":\"\",\"on\":\"\u5efa\u5174\u9152\u5bb6\"},{\"i\":\"2435\",\"n\":\"\u5404\u56fd\u6599\u7406\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"},{\"i\":\"252\",\"n\":\"\u6d77\u9c9c\u5927\u9910\",\"on\":\"\u6d77\u9c9c\"}],\"st\":[{\"i\":\"11293\",\"n\":\"\u66fc\u8c37\u666f\u70b9\u597d\u8bc4\u699c\",\"on\":\"\u666f\u70b9\u597d\u8bc4\u699c\"},{\"i\":\"188\",\"n\":\"\u5343\u4f5b\u4e4b\u56fd\",\"on\":\"\u5bfa\u5e99\"},{\"i\":\"10968\",\"n\":\"\u6cf0\u62f3\u79c0\",\"on\":\"\u6cf0\u62f3\"},{\"i\":\"1239\",\"n\":\"\u7279\u8272\u96c6\u5e02\",\"on\":\"\u96c6\u5e02\"},{\"i\":\"286\",\"n\":\"\u6cf0\u5f0f\u6309\u6469\",\"on\":\"SPA\\\/\u6309\u6469\"},{\"i\":\"10950\",\"n\":\"\u4eba\u6c14\u666f\u70b9\",\"on\":\"\u7a77\u6e38\u7f16\u8f91\u63a8\u8350\"},{\"i\":\"10149\",\"n\":\"\u4f20\u7edf\u620f\u5267\",\"on\":\"\u8868\u6f14\u79c0\\\/\u821e\u53f0\u5267\"},{\"i\":\"290\",\"n\":\"\u66fc\u8c37\u591c\u751f\u6d3b\",\"on\":\"\u591c\u5e97\"}],\"sp\":[{\"i\":\"275\",\"n\":\"\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"},{\"i\":\"10461\",\"n\":\"\u4e66\u5e97\",\"on\":\"\u4e66\u7c4d\"},{\"i\":\"271\",\"n\":\"\u793c\u54c1\u5546\u5e97\",\"on\":\"\u793c\u54c1\u5e97\"}]}","cn_name":"\u66fc\u8c37","en_name":"Bangkok","py_name":"mangu","name_url":"","country_id":"215","is_capital":"1","author_uid":"14","admin_uid":"760","state":"1","visa_type":"1","bbs_use":"1","hot_poi_count":"9","chinese_hotel_num":"11","important_tips":"","is_area":"0","related_city":"14348","related_country":"","doing_time":1410961339},"54":{"id":"54","cityname":"\u6e05\u8fc8","cityname_en":"Chiang Mai","cityname_py":"qingmai","cityname_url":"","countryid":"215","tag_ids":"11601,11604,11605,11606,11607,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,11620,11622,10124,11623,1638","iscapital":"0","lat":"18.775663","lng":"98.923729","zoom":"4","timezone":"UTC+7","currency":"\u6cf0\u94e2,THB","author":"14","population":"14.8","area":"40.216","language":"\u6cf0\u8bed,\u6e05\u8fc8\u65b9\u8a00","pressure":"220v","rate":"50Hz","power_supply":"A,B,C","phone_zone":"53","datetime":"1328604100","lastauthor":"760","lastdate":"1476201224","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=986e7f1b40ea6817fadcec11b1d18b10;dcid=1;class_interval=1;offset=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;;city=-3247115;origin=disamb;srhash=3621859152;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=1","visa_url":"http:\/\/qz.go2eu.com\/visa\/Asia\/Thailand\/","status":"1","bestmonths":null,"plantocounts":"40515","beentocounts":"58834","livedcounts":"251","default_img":"","cost":"300","playdays":"3","fundays":"3.08","plancounts":"28894","visatype":"1","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"6","alias":"","hotel_num":"3","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1225955","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11294\",\"n\":\"\u6e05\u8fc8\u4eba\u6c14\u7f8e\u98df\u699c\",\"on\":\"\u7f8e\u98df\u597d\u8bc4\u699c\"},{\"i\":\"10358\",\"n\":\"\u5230\u6e05\u8fc8\u5b66\u6599\u7406\",\"on\":\"\u53a8\u827a\u5b66\u6821\"},{\"i\":\"256\",\"n\":\"\u54c1\u5473\u6cf0\u5317\u83dc\",\"on\":\"\u6cf0\u56fd\u83dc\"},{\"i\":\"2435\",\"n\":\"\u4e16\u754c\u7279\u8272\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"},{\"i\":\"247\",\"n\":\"\u4f11\u95f2\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"}],\"st\":[{\"i\":\"1348\",\"n\":\"\u6e05\u8fc8\u4e00\u65e5\u6e38\u7ecf\u5178\u884c\u7a0b\",\"on\":\"\u4e00\u65e5\u6e38\\\/\u591a\u65e5\u6e38\"},{\"i\":\"363\",\"n\":\"\u6e05\u8fc8\u7279\u8272\u591c\u5e02\",\"on\":\"\u7f8e\u98df\u8857\\\/\u591c\u5e02\"},{\"i\":\"284\",\"n\":\"\u73a9\u5728\u6e05\u8fc8\",\"on\":\"\u5176\u4ed6\u6237\u5916\u6d3b\u52a8\"},{\"i\":\"1032\",\"n\":\"\u6c11\u4fd7\u8282\u65e5\",\"on\":\"\u4e3b\u9898\u6d3b\u52a8\u65e5\"},{\"i\":\"188\",\"n\":\"\u5bfa\u5e99\u4e4b\u65c5\",\"on\":\"\u5bfa\u5e99\"},{\"i\":\"286\",\"n\":\"\u5730\u9053\u6cf0\u5f0f\u6309\u6469\",\"on\":\"SPA\\\/\u6309\u6469\"},{\"i\":\"2089\",\"n\":\"\u4f53\u9a8c\u5f53\u5730\u751f\u6d3b\",\"on\":\"\u4eb2\u8eab\u4f53\u9a8c\"},{\"i\":\"249\",\"n\":\"\u6e05\u8fc8\u591c\u751f\u6d3b\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"10950\",\"n\":\"\u4e0d\u80fd\u9519\u8fc7\",\"on\":\"\u7a77\u6e38\u7f16\u8f91\u63a8\u8350\"}],\"sp\":[{\"i\":\"1239\",\"n\":\"\u901b\u96c6\u5e02\",\"on\":\"\u96c6\u5e02\"},{\"i\":\"275\",\"n\":\"\u8d2d\u7269\u4e2d\u5fc3\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"},{\"i\":\"2531\",\"n\":\"\",\"on\":\"\u7eaa\u5ff5\u54c1\u5e97\"},{\"i\":\"266\",\"n\":\"\",\"on\":\"\u624b\u5de5\u827a\u54c1\"}]}","cn_name":"\u6e05\u8fc8","en_name":"Chiang Mai","py_name":"qingmai","name_url":"","country_id":"215","is_capital":"0","author_uid":"14","admin_uid":"760","state":"1","visa_type":"1","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"3","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410961348},"70":{"id":"70","cityname":"\u6089\u5c3c","cityname_en":"Sydney","cityname_py":"xini","cityname_url":"","countryid":"240","tag_ids":"11603,11604,11605,11606,11607,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,11621,199,11625","iscapital":"0","lat":"-33.873650","lng":"151.206894","zoom":"10","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"20","population":"457.5","area":"12144","language":"\u82f1\u8bed","pressure":"230v","rate":"50Hz","power_supply":"I","phone_zone":"2","datetime":"1328609045","lastauthor":"760","lastdate":"1476203476","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=8eafda2d56ae2f794db5fe6d6b9d5aa7;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=a","rentcar_url":"http:\/\/www.autoeurope.cn\/","assure_url":"","visa_url":"http:\/\/qz.go2eu.com\/visa\/Australia\/Australia\/","status":"1","bestmonths":"1,2,3,4,5,6,7,8,9,10,11,12","plantocounts":"11252","beentocounts":"30401","livedcounts":"907","default_img":"","cost":"600","playdays":"3","fundays":"2.93","plancounts":"8029","visatype":"1","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u96ea\u68a8","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1105779","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"252\",\"n\":\"\",\"on\":\"\u6d77\u9c9c\"},{\"i\":\"260\",\"n\":\"\u4e2d\u534e\u6599\u7406\",\"on\":\"\u4e2d\u9910\"},{\"i\":\"247\",\"n\":\"\u8857\u89d2\u7684\u5496\u5561\u5e97\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"2453\",\"n\":\"\",\"on\":\"\u6fb3\u5927\u5229\u4e9a\u83dc\"}],\"st\":[{\"i\":\"11293\",\"n\":\"\",\"on\":\"\u666f\u70b9\u597d\u8bc4\u699c\"},{\"i\":\"1563\",\"n\":\"\",\"on\":\"\u6c34\u4e0a\u8fd0\u52a8\"},{\"i\":\"183\",\"n\":\"\u5efa\u7b51\u5de1\u793c\",\"on\":\"\u5efa\u7b51\"},{\"i\":\"204\",\"n\":\"\u6d77\u6ee9\u6563\u6b65\",\"on\":\"\u6d77\u6ee9\"},{\"i\":\"199\",\"n\":\"\u4e0d\u53ef\u9519\u8fc7\u7684\u7f8e\u666f\",\"on\":\"\u81ea\u7136\u98ce\u5149\"},{\"i\":\"175\",\"n\":\"\u57ce\u5e02\u535a\u7269\u9986\",\"on\":\"\u535a\u7269\u9986\"}],\"sp\":[{\"i\":\"275\",\"n\":\"\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"}]}","cn_name":"\u6089\u5c3c","en_name":"Sydney","py_name":"xini","name_url":"","country_id":"240","is_capital":"0","author_uid":"20","admin_uid":"760","state":"1","visa_type":"1","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410961364},"6591":{"id":"6591","cityname":"\u963f\u5fb7\u83b1\u5fb7","cityname_en":"Adelaide","cityname_py":"adelaide","cityname_url":"","countryid":"240","tag_ids":"","iscapital":"0","lat":"-34.933334","lng":"138.600006","zoom":"8","timezone":"UTC+9:30-DS","currency":"\u6fb3\u6d32\u5143,AUD","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"141","lastdate":"1476161228","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"1005","beentocounts":"3632","livedcounts":"51","default_img":"","cost":"600","playdays":"1","fundays":"1.92","plancounts":"851","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1099805","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u963f\u5fb7\u83b1\u5fb7","en_name":"Adelaide","py_name":"adelaide","name_url":"","country_id":"240","is_capital":"0","author_uid":"0","admin_uid":"141","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410961380},"8682":{"id":"8682","cityname":"\u9a6c\u57c3\u5c9b","cityname_en":"Mahe","cityname_py":"maai","cityname_url":"","countryid":"531","tag_ids":"","iscapital":"0","lat":"-4.693318","lng":"55.484333","zoom":"10","timezone":"UTC+4","currency":"\u585e\u820c\u5c14\u6cd5\u90ce,SCR","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1472451896","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"468","beentocounts":"673","livedcounts":"2","default_img":"","cost":"800","playdays":"1","fundays":"2.32","plancounts":"180","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"1","relecity":"13344,14955","relecountry":"","yahoo_city_id":"1411024","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"1","editor_tag":"","cn_name":"\u9a6c\u57c3\u5c9b","en_name":"Mahe","py_name":"maai","name_url":"","country_id":"531","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"1","related_city":"13344,14955","related_country":"","doing_time":1410961403},"8681":{"id":"8681","cityname":"\u62c9\u8fea\u683c\u5c9b","cityname_en":"La digue","cityname_py":"ladigedao","cityname_url":null,"countryid":"531","tag_ids":"","iscapital":"0","lat":"-4.359097","lng":"55.841244","zoom":"8","timezone":"UTC+4","currency":"\u585e\u820c\u5c14\u6cd5\u90ce,SCR","author":"0","population":"0","area":"0","language":"\u6cd5\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"42","lastdate":"1474712517","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"270","beentocounts":"590","livedcounts":"1","default_img":"","cost":"800","playdays":"1","fundays":"1.68","plancounts":"132","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"1","relecity":null,"relecountry":null,"yahoo_city_id":"12466303","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"1","editor_tag":"","cn_name":"\u62c9\u8fea\u683c\u5c9b","en_name":"La digue","py_name":"ladigedao","name_url":null,"country_id":"531","is_capital":"0","author_uid":"0","admin_uid":"42","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"1","related_city":null,"related_country":null,"doing_time":1410961414},"10071":{"id":"10071","cityname":"\u666e\u62c9\u5170\u5c9b","cityname_en":"Praslin Island","cityname_py":"pulalandao","cityname_url":"","countryid":"531","tag_ids":"","iscapital":"0","lat":"-4.332591","lng":"55.746727","zoom":"10","timezone":"UTC+4","currency":"\u585e\u820c\u5c14\u6cd5\u90ce,SCR","author":"51","population":"0","area":"0","language":"\u6cd5\u8bed,\u82f1\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1366943932","lastauthor":"63","lastdate":"1476018278","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"311","beentocounts":"570","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"2.36","plancounts":"127","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u5e15\u5c14\u6885\u5c9b,Ile de Palme","hotel_num":"0","importips":"","introduction":" ","isarea":"1","relecity":null,"relecountry":null,"yahoo_city_id":"12466321","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"1","editor_tag":"","cn_name":"\u666e\u62c9\u5170\u5c9b","en_name":"Praslin Island","py_name":"pulalandao","name_url":"","country_id":"531","is_capital":"0","author_uid":"51","admin_uid":"63","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"1","related_city":null,"related_country":null,"doing_time":1410961425},"8684":{"id":"8684","cityname":"\u7ef4\u591a\u5229\u4e9a","cityname_en":"Victoria","cityname_py":"weiduoliya","cityname_url":"Victoria Seychelles","countryid":"531","tag_ids":"11598","iscapital":"1","lat":"-4.616667","lng":"55.450001","zoom":"8","timezone":"UTC+4","currency":"\u585e\u820c\u5c14\u6cd5\u90ce,SCR","author":"0","population":"0","area":"0","language":"\u82f1\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"155","lastdate":"1475923995","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"249","beentocounts":"752","livedcounts":"0","default_img":"","cost":"800","playdays":"1","fundays":"0.84","plancounts":"204","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u7ef4\u591a\u5229\u4e9a","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"1411024","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u7ef4\u591a\u5229\u4e9a","en_name":"Victoria","py_name":"weiduoliya","name_url":"Victoria Seychelles","country_id":"531","is_capital":"1","author_uid":"0","admin_uid":"155","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961443},"8450":{"id":"8450","cityname":"\u5965\u65af\u9646","cityname_en":"Oslo","cityname_py":"aosilu","cityname_url":null,"countryid":"521","tag_ids":"11599,11604,11605,11606,11615,11616,11617,11618,10144,10143,11621,199,11628,11642","iscapital":"1","lat":"59.913868","lng":"10.752245","zoom":"8","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"0","population":"61.3","area":"454","language":"\u632a\u5a01\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"47","datetime":"1339984800","lastauthor":"155","lastdate":"1476106193","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"2421","beentocounts":"11073","livedcounts":"37","default_img":"","cost":"800","playdays":"1","fundays":"1.32","plancounts":"2105","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"862592","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11060\",\"n\":\"\u5e73\u4ef7\u597d\u5403\u7684\u4eba\u6c14\u9910\u5385\",\"on\":\"\u4eba\u6c14\u9910\u5385\"},{\"i\":\"247\",\"n\":\"\u9187\u9999\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"252\",\"n\":\"\u9c9c\u7f8e\u6d77\u9c9c\",\"on\":\"\u6d77\u9c9c\"},{\"i\":\"230\",\"n\":\"\u632a\u5a01\u9762\u5305\",\"on\":\"\u9762\u5305\u7cd5\u70b9\"}],\"st\":[{\"i\":\"11204\",\"n\":\"\u73a9\u904d\u5965\u65af\u9646\u514d\u8d39\u666f\u70b9\",\"on\":\"\u514d\u8d39\u666f\u70b9\"},{\"i\":\"10467\",\"n\":\"\u590f\u65e5\u6e38\u8239\u89c2\u5149\u4e4b\u65c5\",\"on\":\"\u6e38\u8239\u89c2\u5149\"},{\"i\":\"1634\",\"n\":\"\u9177\u723d\u7684\u51b0\u96ea\u6d3b\u52a8\u4f53\u9a8c\",\"on\":\"\u51b0\u96ea\u6d3b\u52a8\"},{\"i\":\"203\",\"n\":\"\u96d5\u5851\u4e4b\u90fd\",\"on\":\"\u7eaa\u5ff5\u7891\\\/\u96d5\u5851\\\/\u55b7\u6cc9\"},{\"i\":\"175\",\"n\":\"\u63a2\u79d8\u535a\u7269\u9986\",\"on\":\"\u535a\u7269\u9986\"}],\"sp\":[{\"i\":\"275\",\"n\":\"\u8d2d\u7269\u4e2d\u5fc3\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"},{\"i\":\"2531\",\"n\":\"\u7279\u8272\u7eaa\u5ff5\u54c1\",\"on\":\"\u7eaa\u5ff5\u54c1\u5e97\"}]}","cn_name":"\u5965\u65af\u9646","en_name":"Oslo","py_name":"aosilu","name_url":null,"country_id":"521","is_capital":"1","author_uid":"0","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961467},"8452":{"id":"8452","cityname":"\u5351\u5c14\u6839","cityname_en":"Bergen","cityname_py":"beiergen","cityname_url":null,"countryid":"521","tag_ids":"11599,11614,11615,11616,11617,11618,199,11628,11642","iscapital":"0","lat":"60.391262","lng":"5.322054","zoom":"7","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"0","population":"26.5","area":"465","language":"\u632a\u5a01\u8bed","pressure":"220v,230v","rate":"50Hz","power_supply":"D","phone_zone":"47","datetime":"1339984800","lastauthor":"155","lastdate":"1476157442","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh-cn.html?aid=338350;sid=7851751566c3c8da7435253894e5edd3;dcid=1;checkin_monthday=9;checkin_year_month=2012-5;checkout_monthday=10;checkout_year_month=2012-5;class_interval=1;inac=0;offset=0;order=popularity;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=searchresults;ss_all=0;ssne_untouched=%E6%9C%97%E4%BC%8A%E5%B0%94%E5%9F%8E;city=-252873;origin=disamb;srhash=111022135;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/","visa_url":"http:\/\/qz.go2eu.com\/visa\/Europe\/Norway\/","status":"1","bestmonths":null,"plantocounts":"1439","beentocounts":"6553","livedcounts":"7","default_img":"","cost":"800","playdays":"2","fundays":"1.12","plancounts":"1622","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"857105","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5351\u5c14\u6839","en_name":"Bergen","py_name":"beiergen","name_url":null,"country_id":"521","is_capital":"0","author_uid":"0","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961473},"8491":{"id":"8491","cityname":"\u677e\u6069\u5ce1\u6e7e","cityname_en":"Sognefjorden","cityname_py":"songenxiawan","cityname_url":"","countryid":"521","tag_ids":"","iscapital":"0","lat":"61.155422","lng":"6.580634","zoom":"8","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"0","population":"0","area":"0","language":"\u632a\u5a01\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1475057496","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"6,7,8,9","plantocounts":"660","beentocounts":"2923","livedcounts":"1","default_img":"","cost":"1000","playdays":"1","fundays":"0.76","plancounts":"707","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"1","relecity":"10290,10291,8446,10293,8490","relecountry":"","yahoo_city_id":"29361495","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"1","editor_tag":"","cn_name":"\u677e\u6069\u5ce1\u6e7e","en_name":"Sognefjorden","py_name":"songenxiawan","name_url":"","country_id":"521","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"1","related_city":"10290,10291,8446,10293,8490","related_country":"","doing_time":1410961484},"10291":{"id":"10291","cityname":"\u5f17\u6d1b\u59c6","cityname_en":"Fl\u00e5m","cityname_py":"fuluomu","cityname_url":"Flaam","countryid":"521","tag_ids":"","iscapital":"0","lat":"60.861164","lng":"7.115434","zoom":"8","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"20","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1372127939","lastauthor":"155","lastdate":"1475995475","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"","plantocounts":"308","beentocounts":"3158","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.87","plancounts":"818","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"Flaam,Flam","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"90873150","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5f17\u6d1b\u59c6","en_name":"Fl\u00e5m","py_name":"fuluomu","name_url":"Flaam","country_id":"521","is_capital":"0","author_uid":"20","admin_uid":"155","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961491},"10292":{"id":"10292","cityname":"\u7c73\u8fbe\u5c14","cityname_en":"Myrdal","cityname_py":"midaer","cityname_url":"","countryid":"521","tag_ids":"","iscapital":"0","lat":"60.735241","lng":"7.122800","zoom":"8","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"20","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1372128022","lastauthor":"0","lastdate":"1475582817","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"85","beentocounts":"1167","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.41","plancounts":"130","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"29327534","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u7c73\u8fbe\u5c14","en_name":"Myrdal","py_name":"midaer","name_url":"","country_id":"521","is_capital":"0","author_uid":"20","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961520},"43":{"id":"43","cityname":"\u65af\u5fb7\u54e5\u5c14\u6469","cityname_en":"Stockholm","cityname_py":"sidegeermo","cityname_url":"","countryid":"202","tag_ids":"11599,11604,11605,11606,11609,11610,11611,11612,11614,11615,11616,11617,10144,10143,11642","iscapital":"1","lat":"59.324028","lng":"18.070404","zoom":"11","timezone":"UTC+1-DE","currency":"\u745e\u5178\u514b\u6717,SEK","author":"14","population":"79","area":"5400","language":"\u745e\u5178\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"8","datetime":"1328600647","lastauthor":"155","lastdate":"1476203759","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=2bcd242093284665afb24594467ba97c;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-2524279;origin=disamb;srhash=3476553965;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Europe\/Sweden\/","status":"1","bestmonths":"1,2,3,5,6,7,8,9,12","plantocounts":"4839","beentocounts":"15254","livedcounts":"296","default_img":"","cost":"700","playdays":"2","fundays":"2.03","plancounts":"2613","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"13504,13536,13566,13656,14107,14538,14792,14910,14942","relecountry":null,"yahoo_city_id":"906057","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"10921\",\"n\":\"\",\"on\":\"\u8089\u4e38\"},{\"i\":\"247\",\"n\":\"\u4f11\u95f2\u5496\u5561\u9986\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"230\",\"n\":\"\u53ef\u53e3\u751c\u70b9\",\"on\":\"\u9762\u5305\u7cd5\u70b9\"},{\"i\":\"2460\",\"n\":\"\u745e\u5178\u6599\u7406\",\"on\":\"\u745e\u5178\u83dc\"}],\"st\":[{\"i\":\"210\",\"n\":\"\u5c0f\u5c9b\u4e4b\u90fd\",\"on\":\"\u5c9b\u5c7f\"},{\"i\":\"175\",\"n\":\"\u535a\u7269\u9986\u6587\u5316\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"185\",\"n\":\"\u5b97\u6559\u6587\u660e\",\"on\":\"\u6559\u5802\"},{\"i\":\"10467\",\"n\":\"\",\"on\":\"\u6e38\u8239\u89c2\u5149\"}],\"sp\":null}","cn_name":"\u65af\u5fb7\u54e5\u5c14\u6469","en_name":"Stockholm","py_name":"sidegeermo","name_url":"","country_id":"202","is_capital":"1","author_uid":"14","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"13504,13536,13566,13656,14107,14538,14792,14910,14942","related_country":null,"doing_time":1410961532},"8629":{"id":"8629","cityname":"\u57fa\u5f8b\u7eb3","cityname_en":"Kiruna","cityname_py":"jilvna","cityname_url":null,"countryid":"202","tag_ids":"","iscapital":"0","lat":"67.849998","lng":"20.216667","zoom":"0","timezone":"UTC+1-DE","currency":"\u745e\u5178\u514b\u6717,SEK","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"0","lastdate":"1475774166","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"461","beentocounts":"2039","livedcounts":"1","default_img":"","cost":"800","playdays":"1","fundays":"1.63","plancounts":"487","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"895313","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u57fa\u5f8b\u7eb3","en_name":"Kiruna","py_name":"jilvna","name_url":null,"country_id":"202","is_capital":"0","author_uid":"0","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961540},"10290":{"id":"10290","cityname":"\u5c45\u5fb7\u65fa\u6069","cityname_en":"Gudvangen","cityname_py":"judewangen","cityname_url":"","countryid":"521","tag_ids":"","iscapital":"0","lat":"60.878719","lng":"6.838774","zoom":"11","timezone":"UTC+1-DE","currency":"\u632a\u5a01\u514b\u6717,NOK","author":"20","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1372126889","lastauthor":"0","lastdate":"1474215024","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"105","beentocounts":"998","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.29","plancounts":"200","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"859191","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5c45\u5fb7\u65fa\u6069","en_name":"Gudvangen","py_name":"judewangen","name_url":"","country_id":"521","is_capital":"0","author_uid":"20","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961734},"37":{"id":"37","cityname":"\u6155\u5c3c\u9ed1","cityname_en":"Munich","cityname_py":"munihei","cityname_url":"","countryid":"15","tag_ids":"11588,11604,11605,11606,11616,11617,11618,10144,10143,11620,11621,11625,11642","iscapital":"0","lat":"48.144836","lng":"11.558007","zoom":"6","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"14","population":"133","area":"310","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"89","datetime":"1328598757","lastauthor":"155","lastdate":"1476197609","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=2bcd242093284665afb24594467ba97c;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-1829149;origin=disamb;srhash=3175904959;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Europe\/Germany\/","status":"1","bestmonths":"","plantocounts":"12165","beentocounts":"41253","livedcounts":"397","default_img":"","cost":"600","playdays":"2","fundays":"1.88","plancounts":"14303","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"M\u00fcchen,Muechen","hotel_num":"0","importips":"\u5317\u4eac\u65f6\u95f47\u670823\u65e5\u51cc\u6668\uff0c\u6155\u5c3c\u9ed1\u4e00\u5bb6\u8d2d\u7269\u4e2d\u5fc3\u53d1\u751f\u67aa\u51fb\u4e8b\u4ef6\u3002\u4e2d\u56fd\u9a7b\u5fb7\u4f7f\u9986\u63d0\u9192\u65c5\u5fb7\u4e2d\u56fd\u516c\u6c11\u9ad8\u5ea6\u91cd\u89c6\u5fb7\u56fd\u5b89\u5168\u5f62\u52bf\u51fa\u73b0\u7684\u65b0\u53d8\u5316\uff0c\u63d0\u9ad8\u5b89\u5168\u9632\u8303\u610f\u8bc6\uff0c\u5c3d\u91cf\u51cf\u5c11\u5916\u51fa\uff0c\u7279\u522b\u662f\u907f\u514d\u5230\u4eba\u6d41\u4f17\u591a\u7684\u516c\u5171\u573a\u6240\uff0c\u540c\u65f6\u7ecf\u5e38\u5173\u6ce8\u5a92\u4f53\u76f8\u5173\u62a5\u9053\u548c\u4e2d\u56fd\u9a7b\u5fb7\u4f7f\u9886\u9986\u5b89\u5168\u63d0\u793a\u3002\u5982\u9047\u7d27\u6025\u60c5\u51b5\uff0c\u8bf7\u9a6c\u4e0a\u4e0e\u5f53\u5730\u4e2d\u56fd\u4f7f\u9886\u9986\u8054\u7cfb\u3002\r\n\r\n\u5916\u4ea4\u90e8\u5168\u7403\u9886\u4fdd\u70ed\u7ebf+86-10-12308\r\n\u5fb7\u56fd\u6025\u6551\u7535\u8bdd\uff1a112\r\n\u5fb7\u56fd\u5217\u8f66\u65f6\u523b\u67e5\u8be2\u53f0\uff1a0800\/1 50 70 90 \u4eba\u5de5\u54a8\u8be2\u53f0\uff1a01805\/194 195\r\n\u4e2d\u56fd\u9a7b\u5fb7\u56fd\u4f7f\u9986\uff1aTel: 0049-30-27588555 \r\n\u9a7b\u6c49\u5821\u603b\u9886\u9986\uff1aTel: 040-82276013\r\n\u9a7b\u6155\u5c3c\u9ed1\u603b\u9886\u9986\uff1aTel: 089-17301611","introduction":"","isarea":"0","relecity":"13876","relecountry":null,"yahoo_city_id":"676757","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"2455\",\"n\":\"\u70e4\u732a\u8098\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"249\",\"n\":\"\u6155\u5c3c\u9ed1\u5564\u9152\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"265\",\"n\":\"\u610f\u5f0f\u98ce\u5473\",\"on\":\"\u610f\u5927\u5229\u83dc\"},{\"i\":\"2435\",\"n\":\"\u5f02\u56fd\u6599\u7406\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"}],\"st\":[{\"i\":\"11293\",\"n\":\"\",\"on\":\"\u666f\u70b9\u597d\u8bc4\u699c\"},{\"i\":\"175\",\"n\":\"\u611f\u53d7\u5fb7\u56fd\u5de5\u4e1a\u6587\u5316\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"362\",\"n\":\"\u8d2d\u7269\u5929\u5802\u6155\u5c3c\u9ed1\",\"on\":\"\u8d2d\u7269\u8857\\\/\u5546\u5708\"},{\"i\":\"290\",\"n\":\"\u6155\u5c3c\u9ed1\u591c\u751f\u6d3b\",\"on\":\"\u591c\u5e97\"},{\"i\":\"2089\",\"n\":\"\u6155\u5c3c\u9ed1\u53ef\u4ee5\u8fd9\u6837\u73a9\",\"on\":\"\u4eb2\u8eab\u4f53\u9a8c\"}],\"sp\":null}","cn_name":"\u6155\u5c3c\u9ed1","en_name":"Munich","py_name":"munihei","name_url":"","country_id":"15","is_capital":"0","author_uid":"14","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"\u5317\u4eac\u65f6\u95f47\u670823\u65e5\u51cc\u6668\uff0c\u6155\u5c3c\u9ed1\u4e00\u5bb6\u8d2d\u7269\u4e2d\u5fc3\u53d1\u751f\u67aa\u51fb\u4e8b\u4ef6\u3002\u4e2d\u56fd\u9a7b\u5fb7\u4f7f\u9986\u63d0\u9192\u65c5\u5fb7\u4e2d\u56fd\u516c\u6c11\u9ad8\u5ea6\u91cd\u89c6\u5fb7\u56fd\u5b89\u5168\u5f62\u52bf\u51fa\u73b0\u7684\u65b0\u53d8\u5316\uff0c\u63d0\u9ad8\u5b89\u5168\u9632\u8303\u610f\u8bc6\uff0c\u5c3d\u91cf\u51cf\u5c11\u5916\u51fa\uff0c\u7279\u522b\u662f\u907f\u514d\u5230\u4eba\u6d41\u4f17\u591a\u7684\u516c\u5171\u573a\u6240\uff0c\u540c\u65f6\u7ecf\u5e38\u5173\u6ce8\u5a92\u4f53\u76f8\u5173\u62a5\u9053\u548c\u4e2d\u56fd\u9a7b\u5fb7\u4f7f\u9886\u9986\u5b89\u5168\u63d0\u793a\u3002\u5982\u9047\u7d27\u6025\u60c5\u51b5\uff0c\u8bf7\u9a6c\u4e0a\u4e0e\u5f53\u5730\u4e2d\u56fd\u4f7f\u9886\u9986\u8054\u7cfb\u3002\r\n\r\n\u5916\u4ea4\u90e8\u5168\u7403\u9886\u4fdd\u70ed\u7ebf+86-10-12308\r\n\u5fb7\u56fd\u6025\u6551\u7535\u8bdd\uff1a112\r\n\u5fb7\u56fd\u5217\u8f66\u65f6\u523b\u67e5\u8be2\u53f0\uff1a0800\/1 50 70 90 \u4eba\u5de5\u54a8\u8be2\u53f0\uff1a01805\/194 195\r\n\u4e2d\u56fd\u9a7b\u5fb7\u56fd\u4f7f\u9986\uff1aTel: 0049-30-27588555 \r\n\u9a7b\u6c49\u5821\u603b\u9886\u9986\uff1aTel: 040-82276013\r\n\u9a7b\u6155\u5c3c\u9ed1\u603b\u9886\u9986\uff1aTel: 089-17301611","is_area":"0","related_city":"13876","related_country":null,"doing_time":1410961773},"7042":{"id":"7042","cityname":"\u6cd5\u5170\u514b\u798f","cityname_en":"Frankfurt am main","cityname_py":"falankefu","cityname_url":"","countryid":"15","tag_ids":"11588,11604,11605,11606,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,10147,11621,11622,11627,11642","iscapital":"0","lat":"50.110924","lng":"8.682127","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"68","area":"248","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"49","datetime":"1339984800","lastauthor":"155","lastdate":"1476175511","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"","plantocounts":"6019","beentocounts":"31749","livedcounts":"65","default_img":"","cost":"500","playdays":"1","fundays":"1.38","plancounts":"9871","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"2","importips":"\u8fd1\u671f\uff0c\u6cd5\u5170\u514b\u798f\u673a\u573a\u591a\u6b21\u53d1\u751f\u4e2d\u56fd\u65c5\u5ba2\u56e0\u5165\u5883\u5b9e\u9645\u884c\u7a0b\u4e0e\u7533\u8bf7\u7b7e\u8bc1\u65f6\u7533\u62a5\u884c\u7a0b\u4e0d\u7b26\u88ab\u673a\u573a\u8b66\u65b9\u4ee5\u6d89\u5acc\u9a97\u7b7e\u4e3a\u7531\u62d2\u7edd\u5165\u5883\u5e76\u9063\u8fd4\u3002\r\n\r\n\u9274\u6b64\uff0c\u8c28\u63d0\u9192\u62df\u4ece\u6cd5\u5170\u514b\u798f\u673a\u573a\u5165\u5883\u7684\u4e2d\u56fd\u65c5\u5ba2\uff0c\u4e3a\u907f\u514d\u884c\u7a0b\u53d7\u963b\uff0c\u5728\u7533\u8bf7\u7533\u6839\u7b7e\u8bc1\u65f6\u987b\u7279\u522b\u6ce8\u610f\u4ee5\u4e0b\u4e8b\u9879\uff1a\r\n\r\n\u4e00\u3001\u5982\u62df\u524d\u5f80\u4e00\u4e2a\u7533\u6839\u6210\u5458\u56fd\uff0c\u987b\u5411\u8be5\u56fd\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\uff1b\r\n\u4e8c\u3001\u5982\u884c\u7a0b\u5305\u62ec\u82e5\u5e72\u7533\u6839\u6210\u5458\u56fd\uff0c\u539f\u5219\u4e0a\u5e94\u5411\u505c\u7559\u671f\u6700\u957f\u7684\u56fd\u5bb6\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\uff1b\r\n\u4e09\u3001\u5982\u5728\u5404\u56fd\u505c\u7559\u671f\u5927\u7ea6\u76f8\u540c\uff0c\u5e94\u5411\u9996\u4e2a\u5165\u5883\u56fd\u7684\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\u3002","introduction":"","isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"650272","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"2455\",\"n\":\"\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"265\",\"n\":\"\u610f\u5927\u5229\u98ce\u5473\",\"on\":\"\u610f\u5927\u5229\u83dc\"},{\"i\":\"2435\",\"n\":\"\u4e16\u754c\u7279\u8272\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"},{\"i\":\"249\",\"n\":\"\u4f11\u95f2\u9152\u5427\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"}],\"st\":[{\"i\":\"175\",\"n\":\"\u6587\u5316\u4e4b\u65c5\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"362\",\"n\":\"\",\"on\":\"\u8d2d\u7269\u8857\\\/\u5546\u5708\"},{\"i\":\"2015\",\"n\":\"\",\"on\":\"\u5730\u6807\u5efa\u7b51\"},{\"i\":\"247\",\"n\":\"\u4f11\u95f2\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"10999\",\"n\":\"\",\"on\":\"\u4f18\u60e0\u6298\u6263\"}],\"sp\":[{\"i\":\"362\",\"n\":\"\u8d2d\u7269\u8857\u533a\",\"on\":\"\u8d2d\u7269\u8857\\\/\u5546\u5708\"}]}","cn_name":"\u6cd5\u5170\u514b\u798f","en_name":"Frankfurt am main","py_name":"falankefu","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"2","important_tips":"\u8fd1\u671f\uff0c\u6cd5\u5170\u514b\u798f\u673a\u573a\u591a\u6b21\u53d1\u751f\u4e2d\u56fd\u65c5\u5ba2\u56e0\u5165\u5883\u5b9e\u9645\u884c\u7a0b\u4e0e\u7533\u8bf7\u7b7e\u8bc1\u65f6\u7533\u62a5\u884c\u7a0b\u4e0d\u7b26\u88ab\u673a\u573a\u8b66\u65b9\u4ee5\u6d89\u5acc\u9a97\u7b7e\u4e3a\u7531\u62d2\u7edd\u5165\u5883\u5e76\u9063\u8fd4\u3002\r\n\r\n\u9274\u6b64\uff0c\u8c28\u63d0\u9192\u62df\u4ece\u6cd5\u5170\u514b\u798f\u673a\u573a\u5165\u5883\u7684\u4e2d\u56fd\u65c5\u5ba2\uff0c\u4e3a\u907f\u514d\u884c\u7a0b\u53d7\u963b\uff0c\u5728\u7533\u8bf7\u7533\u6839\u7b7e\u8bc1\u65f6\u987b\u7279\u522b\u6ce8\u610f\u4ee5\u4e0b\u4e8b\u9879\uff1a\r\n\r\n\u4e00\u3001\u5982\u62df\u524d\u5f80\u4e00\u4e2a\u7533\u6839\u6210\u5458\u56fd\uff0c\u987b\u5411\u8be5\u56fd\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\uff1b\r\n\u4e8c\u3001\u5982\u884c\u7a0b\u5305\u62ec\u82e5\u5e72\u7533\u6839\u6210\u5458\u56fd\uff0c\u539f\u5219\u4e0a\u5e94\u5411\u505c\u7559\u671f\u6700\u957f\u7684\u56fd\u5bb6\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\uff1b\r\n\u4e09\u3001\u5982\u5728\u5404\u56fd\u505c\u7559\u671f\u5927\u7ea6\u76f8\u540c\uff0c\u5e94\u5411\u9996\u4e2a\u5165\u5883\u56fd\u7684\u9a7b\u534e\u4f7f\u9886\u9986\u7533\u529e\u7b7e\u8bc1\u3002","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961780},"17":{"id":"17","cityname":"\u67cf\u6797","cityname_en":"Berlin","cityname_py":"bolin","cityname_url":"","countryid":"15","tag_ids":"11588,11604,11605,11606,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,10147,11620,11621,11622,11625,11642","iscapital":"1","lat":"52.524269","lng":"13.406290","zoom":"10","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"10","population":"341","area":"892","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"30","datetime":"1328262682","lastauthor":"155","lastdate":"1476192195","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=2bcd242093284665afb24594467ba97c;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-1746443;origin=disamb;srhash=1658405216;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Europe\/Germany\/","status":"1","bestmonths":"5,6,7,8,9","plantocounts":"10902","beentocounts":"28885","livedcounts":"401","default_img":"","cost":"500","playdays":"4","fundays":"2.17","plancounts":"6719","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"3","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"14831","relecountry":"","yahoo_city_id":"638242","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"10899\",\"n\":\"\",\"on\":\"\u5fb7\u56fd\u767d\u5564\"},{\"i\":\"2455\",\"n\":\"\u5fb7\u5f0f\u98ce\u5473\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"247\",\"n\":\"\u7f8e\u5999\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"376\",\"n\":\"\u897f\u9910\u6587\u5316\",\"on\":\"\u897f\u9910\"},{\"i\":\"249\",\"n\":\"\u54c1\u9152\u8bc6\u67cf\u6797\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"}],\"st\":[{\"i\":\"11293\",\"n\":\"\u67cf\u6797\u666f\u70b9\u597d\u8bc4\u699c\",\"on\":\"\u666f\u70b9\u597d\u8bc4\u699c\"},{\"i\":\"11155\",\"n\":\"\u89e6\u6478\u67cf\u6797\u5899\",\"on\":\"\u67cf\u6797\u5899\"},{\"i\":\"203\",\"n\":\"\u7eaa\u5ff5\u7891\u5de1\u793c\",\"on\":\"\u7eaa\u5ff5\u7891\\\/\u96d5\u5851\\\/\u55b7\u6cc9\"},{\"i\":\"11153\",\"n\":\"\",\"on\":\"\u4ea4\u901a\u4fe1\u53f7\u5c0f\u4eba\"},{\"i\":\"175\",\"n\":\"\u535a\u7269\u9986\u6587\u5316\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"2015\",\"n\":\"\u67cf\u6797\u5730\u6807\",\"on\":\"\u5730\u6807\u5efa\u7b51\"},{\"i\":\"183\",\"n\":\"\u5efa\u7b51\u4e4b\u7f8e\",\"on\":\"\u5efa\u7b51\"}],\"sp\":[{\"i\":\"327\",\"n\":\"\u878d\u5165\u5f53\u5730\u751f\u6d3b\",\"on\":\"\u8df3\u86a4\u5e02\u573a\"},{\"i\":\"10999\",\"n\":\"\",\"on\":\"\u4f18\u60e0\u6298\u6263\"},{\"i\":\"271\",\"n\":\"\",\"on\":\"\u793c\u54c1\u5e97\"},{\"i\":\"2531\",\"n\":\"\",\"on\":\"\u7eaa\u5ff5\u54c1\u5e97\"},{\"i\":\"268\",\"n\":\"\u4e66\u5e97\",\"on\":\"\u4e66\u7c4d\u548c\u97f3\u50cf\u5236\u54c1\u5e97\"}]}","cn_name":"\u67cf\u6797","en_name":"Berlin","py_name":"bolin","name_url":"","country_id":"15","is_capital":"1","author_uid":"10","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"14831","related_country":"","doing_time":1410961786},"7050":{"id":"7050","cityname":"\u79d1\u9686","cityname_en":"Cologne","cityname_py":"kelong","cityname_url":"","countryid":"15","tag_ids":"11588,11642","iscapital":"0","lat":"50.933334","lng":"6.950000","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"155","lastdate":"1476177446","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"","plantocounts":"4256","beentocounts":"23632","livedcounts":"30","default_img":"","cost":"500","playdays":"1","fundays":"1.16","plancounts":"4135","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"667931","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"249\",\"n\":\"\u5e93\u5c14\u5e0c\u5564\u9152\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"2455\",\"n\":\"\u6b63\u5b97\u5fb7\u56fd\u83dc\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"265\",\"n\":\"\u610f\u5927\u5229\u98ce\u5473\",\"on\":\"\u610f\u5927\u5229\u83dc\"},{\"i\":\"2435\",\"n\":\"\u5f02\u56fd\u6599\u7406\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"}],\"st\":[{\"i\":\"10607\",\"n\":\"\u4e16\u754c\u9999\u6c34\u9f3b\u7956\",\"on\":\"\u9999\u6c34\"},{\"i\":\"11209\",\"n\":\"\",\"on\":\"\u611f\u53d7\u5fb7\u56fd\u53e4\u8001\u6587\u5316\"},{\"i\":\"175\",\"n\":\"\u535a\u7269\u9986\u4e4b\u65c5\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"199\",\"n\":\"\u79d1\u9686\u81ea\u7136\u98ce\u5149\",\"on\":\"\u81ea\u7136\u98ce\u5149\"}],\"sp\":null}","cn_name":"\u79d1\u9686","en_name":"Cologne","py_name":"kelong","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410961794},"7044":{"id":"7044","cityname":"\u83f2\u68ee","cityname_en":"Fussen","cityname_py":"fusen","cityname_url":"","countryid":"15","tag_ids":"11588,11604,11605,11606,11617,11618,11619,10144,10143,199,11628,11642","iscapital":"0","lat":"47.566666","lng":"10.700000","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"155","lastdate":"1476197531","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"4541","beentocounts":"17124","livedcounts":"1","default_img":"","cost":"600","playdays":"1","fundays":"0.92","plancounts":"6643","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u5bcc\u68ee,\u798f\u68ee","hotel_num":"1","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"651238","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"2455\",\"n\":\"\u5fb7\u5f0f\u98ce\u5473\u9910\u5385\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"265\",\"n\":\"\u610f\u5927\u5229\u7f8e\u98df\",\"on\":\"\u610f\u5927\u5229\u83dc\"},{\"i\":\"249\",\"n\":\"\u7545\u996e\u5fb7\u56fd\u5564\u9152\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"260\",\"n\":\"\u5bb6\u4e61\u7684\u5473\u9053\",\"on\":\"\u4e2d\u9910\"}],\"st\":[{\"i\":\"199\",\"n\":\"\u963f\u5c14\u5351\u65af\u5c71\u811a\u4e0b\u7684\u6d6a\u6f2b\u5c0f\u9547\",\"on\":\"\u81ea\u7136\u98ce\u5149\"},{\"i\":\"183\",\"n\":\"\u7ae5\u8bdd\u4e16\u754c\u91cc\u7684\u5efa\u7b51\",\"on\":\"\u5efa\u7b51\"},{\"i\":\"247\",\"n\":\"\u559d\u4e00\u676f\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"175\",\"n\":\"\u535a\u7269\u9986\u4e4b\u65c5\",\"on\":\"\u535a\u7269\u9986\"}],\"sp\":null}","cn_name":"\u83f2\u68ee","en_name":"Fussen","py_name":"fusen","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"155","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"1","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410961800},"38":{"id":"38","cityname":"\u6c49\u5821","cityname_en":"Hamburg","cityname_py":"hanbao","cityname_url":null,"countryid":"15","tag_ids":"11588,11604,11605,11606,11614,11615,11616,11617,11618,11619,10144,10143,11621,11622,11627,11626,11642","iscapital":"0","lat":"53.556866","lng":"9.994622","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"14","population":"180.2","area":"755","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"40","datetime":"1328598916","lastauthor":"155","lastdate":"1476197387","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=2bcd242093284665afb24594467ba97c;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-1785434;origin=disamb;srhash=4241394413;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Europe\/Germany\/","status":"1","bestmonths":null,"plantocounts":"2938","beentocounts":"11456","livedcounts":"177","default_img":"","cost":"600","playdays":"1","fundays":"1.47","plancounts":"1930","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"656958","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11211\",\"n\":\"\",\"on\":\"\u6d77\u5458\u6742\u70e9\"},{\"i\":\"2455\",\"n\":\"\u5fb7\u5f0f\u98ce\u5473\",\"on\":\"\u5fb7\u56fd\u83dc\"},{\"i\":\"265\",\"n\":\"\u610f\u5927\u5229\u98ce\u60c5\",\"on\":\"\u610f\u5927\u5229\u83dc\"},{\"i\":\"249\",\"n\":\"\u4e70\u9189\u5728\u6c49\u5821\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"}],\"st\":[{\"i\":\"10149\",\"n\":\"\u5728\u6c49\u5821\u770b\u620f\u5267\",\"on\":\"\u8868\u6f14\u79c0\\\/\u821e\u53f0\u5267\"},{\"i\":\"2015\",\"n\":\"\u6c49\u5821\u6d6a\u6f2b\u98ce\u5149\",\"on\":\"\u5730\u6807\u5efa\u7b51\"},{\"i\":\"247\",\"n\":\"\u6b27\u5f0f\u5c0f\u9547\u54c1\u5496\u5561\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"290\",\"n\":\"\u6c49\u5821\u591c\u751f\u6d3b\",\"on\":\"\u591c\u5e97\"}],\"sp\":null}","cn_name":"\u6c49\u5821","en_name":"Hamburg","py_name":"hanbao","name_url":null,"country_id":"15","is_capital":"0","author_uid":"14","admin_uid":"155","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961806},"7038":{"id":"7038","cityname":"\u5fb7\u7d2f\u65af\u987f","cityname_en":"Dresden","cityname_py":"deleisidun","cityname_url":null,"countryid":"15","tag_ids":"11588,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,11621,11622,11627,11642","iscapital":"0","lat":"51.049999","lng":"13.750000","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"50","area":"328.3","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"0351","datetime":"1339984800","lastauthor":"155","lastdate":"1476105415","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"1,2,3,4,5,6,7,8,9,10,11,12","plantocounts":"1246","beentocounts":"6615","livedcounts":"30","default_img":"","cost":"600","playdays":"1","fundays":"1.21","plancounts":"1509","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"645686","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5fb7\u7d2f\u65af\u987f","en_name":"Dresden","py_name":"deleisidun","name_url":null,"country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"155","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961820},"7032":{"id":"7032","cityname":"\u6ce2\u8328\u5766","cityname_en":"Potsdam","cityname_py":"bocitan","cityname_url":null,"countryid":"15","tag_ids":"","iscapital":"0","lat":"52.394188","lng":"13.072691","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"15.8","area":"187.28","language":"\u5fb7\u8bed","pressure":"230v","rate":"50Hz","power_supply":"C,F","phone_zone":"30","datetime":"1339984800","lastauthor":"51","lastdate":"1475858814","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"1,2,3,4,5,6,7,8,9,10,11,12","plantocounts":"445","beentocounts":"4129","livedcounts":"4","default_img":"","cost":"600","playdays":"1","fundays":"0.65","plancounts":"812","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"685783","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u6ce2\u8328\u5766","en_name":"Potsdam","py_name":"bocitan","name_url":null,"country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"51","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961840},"7083":{"id":"7083","cityname":"\u4e9a\u741b","cityname_en":"Aachen","cityname_py":"yachen","cityname_url":null,"countryid":"15","tag_ids":"","iscapital":"0","lat":"50.770832","lng":"6.105278","zoom":"0","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"0","lastdate":"1476007326","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"400","beentocounts":"3287","livedcounts":"30","default_img":"","cost":"600","playdays":"1","fundays":"1.10","plancounts":"232","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"633175","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u4e9a\u741b","en_name":"Aachen","py_name":"yachen","name_url":null,"country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961889},"7051":{"id":"7051","cityname":"\u83b1\u6bd4\u9521","cityname_en":"Leipzig","cityname_py":"laibixi","cityname_url":null,"countryid":"15","tag_ids":"","iscapital":"0","lat":"51.299999","lng":"12.333333","zoom":"0","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"0","lastdate":"1475837401","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"477","beentocounts":"3051","livedcounts":"13","default_img":"","cost":"600","playdays":"1","fundays":"0.92","plancounts":"401","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"671072","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u83b1\u6bd4\u9521","en_name":"Leipzig","py_name":"laibixi","name_url":null,"country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410961897},"7021":{"id":"7021","cityname":"\u57c3\u68ee","cityname_en":"Essen","cityname_py":"aisen","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"51.454327","lng":"7.004802","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1476041409","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"260","beentocounts":"2693","livedcounts":"27","default_img":"","cost":"600","playdays":"1","fundays":"1.35","plancounts":"125","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"29140735","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u57c3\u68ee","en_name":"Essen","py_name":"aisen","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961913},"7055":{"id":"7055","cityname":"\u5415\u8d1d\u514b","cityname_en":"Lubeck","cityname_py":"lubeike","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"53.865887","lng":"10.687096","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1475942745","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"262","beentocounts":"2008","livedcounts":"5","default_img":"","cost":"600","playdays":"1","fundays":"0.82","plancounts":"186","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u5362\u8d1d\u514b,L\u00fcbeck","hotel_num":"0","importips":"","introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"672826","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5415\u8d1d\u514b","en_name":"Lubeck","py_name":"lubeike","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961933},"7078":{"id":"7078","cityname":"\u9b4f\u739b","cityname_en":"Weimar","cityname_py":"weima","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"50.984711","lng":"11.322540","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1476002409","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"292","beentocounts":"1493","livedcounts":"6","default_img":"","cost":"600","playdays":"1","fundays":"1.00","plancounts":"223","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"22292371","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u9b4f\u739b","en_name":"Weimar","py_name":"weima","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961952},"9967":{"id":"9967","cityname":"\u6ce2\u9e3f","cityname_en":"Bochum","cityname_py":"bohong","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"51.481846","lng":"7.216236","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"20","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1364882246","lastauthor":"0","lastdate":"1475133089","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"77","beentocounts":"969","livedcounts":"11","default_img":null,"cost":"0","playdays":"1","fundays":"3.45","plancounts":"39","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"639679","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u6ce2\u9e3f","en_name":"Bochum","py_name":"bohong","name_url":"","country_id":"15","is_capital":"0","author_uid":"20","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":null,"related_country":null,"doing_time":1410961967},"7022":{"id":"7022","cityname":"\u7231\u5c14\u798f\u7279","cityname_en":"Erfurt","cityname_py":"aierfute","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"50.983334","lng":"11.033333","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"20","lastdate":"1474378176","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"67","beentocounts":"751","livedcounts":"3","default_img":"","cost":"600","playdays":"1","fundays":"0.61","plancounts":"62","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u57c3\u5c14\u798f\u7279,\u827e\u5c14\u798f\u7279","hotel_num":"0","importips":"","introduction":null,"isarea":"0","relecity":"13647","relecountry":null,"yahoo_city_id":"648351","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u7231\u5c14\u798f\u7279","en_name":"Erfurt","py_name":"aierfute","name_url":"","country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"13647","related_country":null,"doing_time":1410961976},"7059":{"id":"7059","cityname":"\u9a6c\u683c\u5fb7\u5821","cityname_en":"Magdeburg","cityname_py":"magedebao","cityname_url":null,"countryid":"15","tag_ids":"","iscapital":"0","lat":"52.166668","lng":"11.666667","zoom":"0","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"0","lastdate":"1475959406","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"52","beentocounts":"589","livedcounts":"9","default_img":"","cost":"600","playdays":"1","fundays":"1.10","plancounts":"39","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"673361","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u9a6c\u683c\u5fb7\u5821","en_name":"Magdeburg","py_name":"magedebao","name_url":null,"country_id":"15","is_capital":"0","author_uid":"0","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1410962023},"10503":{"id":"10503","cityname":"\u54c8\u96f7","cityname_en":"Halle","cityname_py":"halei","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"51.496979","lng":"11.968803","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"121","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1376016317","lastauthor":"0","lastdate":"1462963596","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"34","beentocounts":"282","livedcounts":"2","default_img":null,"cost":"0","playdays":"1","fundays":"1.12","plancounts":"16","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"656853","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u54c8\u96f7","en_name":"Halle","py_name":"halei","name_url":"","country_id":"15","is_capital":"0","author_uid":"121","admin_uid":"0","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410962078},"6893":{"id":"6893","cityname":"\u5b89\u7279\u536b\u666e","cityname_en":"Antwerp","cityname_py":"anteweipu","cityname_url":"","countryid":"424","tag_ids":"","iscapital":"0","lat":"51.216667","lng":"4.416667","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"0","population":"0","area":"0","language":"\u8377\u5170\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"141","lastdate":"1475988702","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"808","beentocounts":"6529","livedcounts":"9","default_img":"","cost":"600","playdays":"1","fundays":"0.96","plancounts":"703","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"Antwerpen,Anvers","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"966591","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5b89\u7279\u536b\u666e","en_name":"Antwerp","py_name":"anteweipu","name_url":"","country_id":"424","is_capital":"0","author_uid":"0","admin_uid":"141","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1410962327},"6930":{"id":"6930","cityname":"\u534e\u6c99","cityname_en":"Warsaw","cityname_py":"huasha","cityname_url":null,"countryid":"427","tag_ids":"11589,11605,11606,11615,11616,11617,11618,11619,10144,10143,199,11622,11627,11642","iscapital":"1","lat":"52.229675","lng":"21.012230","zoom":"9","timezone":"UTC+1-DE","currency":"\u6ce2\u5170\u5179\u7f57\u63d0,PLN","author":"0","population":"172","area":"516.9","language":"\u6ce2\u5170\u8bed","pressure":"230v","rate":"50Hz","power_supply":"E","phone_zone":"48","datetime":"1339984800","lastauthor":"155","lastdate":"1476182241","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"1248","beentocounts":"4909","livedcounts":"23","default_img":"","cost":"300","playdays":"2","fundays":"1.48","plancounts":"778","visatype":"2","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":null,"hotel_num":"0","importips":null,"introduction":null,"isarea":"0","relecity":null,"relecountry":null,"yahoo_city_id":"523920","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u534e\u6c99","en_name":"Warsaw","py_name":"huasha","name_url":null,"country_id":"427","is_capital":"1","author_uid":"0","admin_uid":"155","state":"1","visa_type":"2","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":null,"is_area":"0","related_city":null,"related_country":null,"doing_time":1415684262},"9968":{"id":"9968","cityname":"\u9c81\u5c14\u533a","cityname_en":"Ruhr","cityname_py":"luerqu","cityname_url":"","countryid":"15","tag_ids":"","iscapital":"0","lat":"51.415329","lng":"7.154670","zoom":"8","timezone":"UTC+1-DE","currency":"\u6b27\u5143,EUR","author":"20","population":"0","area":"0","language":"\u5fb7\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1364882671","lastauthor":"51","lastdate":"1457364303","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"34","beentocounts":"2770","livedcounts":"2","default_img":null,"cost":"0","playdays":"1","fundays":"0.76","plancounts":"12","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"Ruhrgebiet","hotel_num":"0","importips":"","introduction":"","isarea":"1","relecity":"9967,7041,9969,7021","relecountry":"","yahoo_city_id":"56074154","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u9c81\u5c14\u533a","en_name":"Ruhr","py_name":"luerqu","name_url":"","country_id":"15","is_capital":"0","author_uid":"20","admin_uid":"51","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"1","related_city":"9967,7041,9969,7021","related_country":"","doing_time":1420153658},"8601":{"id":"8601","cityname":"\u7bb1\u6839","cityname_en":"Hakone","cityname_py":"xianggen","cityname_url":"","countryid":"14","tag_ids":"11594,11604,11605,11606,11608,11612,11613,11614,11618,11619,10144,10143,199,1326","iscapital":"0","lat":"35.183334","lng":"139.033340","zoom":"7","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"0","population":"1","area":"92","language":"\u65e5\u8bed","pressure":"100v","rate":"50Hz","power_supply":"A,B","phone_zone":"0460","datetime":"1339984800","lastauthor":"760","lastdate":"1476200472","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com","visa_url":"http:\/\/qz.go2eu.com","status":"1","bestmonths":"1,2,3,4,5,6,7,8,9,10,11,12","plantocounts":"6504","beentocounts":"17878","livedcounts":"4","default_img":"","cost":"1000","playdays":"1","fundays":"1.05","plancounts":"4164","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"Hakone Fuji","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"13408","relecountry":null,"yahoo_city_id":"28417495","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"257\",\"n\":\"\",\"on\":\"\u65e5\u672c\u6599\u7406\"},{\"i\":\"254\",\"n\":\"\u7f8e\u5473\u5c0f\u751c\u70b9\",\"on\":\"\u751c\u70b9\"},{\"i\":\"260\",\"n\":\"\u4e2d\u5f0f\u98ce\u5473\",\"on\":\"\u4e2d\u9910\"},{\"i\":\"2435\",\"n\":\"\u5f02\u56fd\u6599\u7406\",\"on\":\"\u6df7\u5408\u83dc\u7cfb\"}],\"st\":[{\"i\":\"285\",\"n\":\"\u4f11\u95f2\u6e29\u6cc9\",\"on\":\"\u6e29\u6cc9\"},{\"i\":\"175\",\"n\":\"\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"11183\",\"n\":\"\",\"on\":\"\u9ed1\u7389\u5b50\"},{\"i\":\"247\",\"n\":\"\u4f11\u95f2\u5496\u5561\u9986\",\"on\":\"\u5496\u5561\u9986\"}],\"sp\":null}","cn_name":"\u7bb1\u6839","en_name":"Hakone","py_name":"xianggen","name_url":"","country_id":"14","is_capital":"0","author_uid":"0","admin_uid":"760","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"13408","related_country":null,"doing_time":1456103471},"14001":{"id":"14001","cityname":"\u5bcc\u58eb\u6cb3\u53e3\u6e56","cityname_en":"Fujikawaguchiko","cityname_py":"fushihekouhu","cityname_url":"Fujikawaguchiko","countryid":"14","tag_ids":"","iscapital":"0","lat":"35.497314","lng":"138.755081","zoom":"7","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1430136480","lastauthor":"395","lastdate":"1476175990","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"1058","beentocounts":"2588","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.00","plancounts":"0","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":null,"yahoo_city_id":"0","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5bcc\u58eb\u6cb3\u53e3\u6e56","en_name":"Fujikawaguchiko","py_name":"fushihekouhu","name_url":"Fujikawaguchiko","country_id":"14","is_capital":"0","author_uid":"0","admin_uid":"395","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":null,"doing_time":1456103550},"15290":{"id":"15290","cityname":"\u5c71\u4e2d\u6e56","cityname_en":"Yamanaka-ko","cityname_py":"shanzhonghu","cityname_url":"","countryid":"14","tag_ids":"","iscapital":"0","lat":"35.416668","lng":"138.866669","zoom":"8","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"20","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1431328614","lastauthor":"20","lastdate":"1476024598","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"168","beentocounts":"355","livedcounts":"1","default_img":null,"cost":"0","playdays":"1","fundays":"0.00","plancounts":"0","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"\u5c71\u4e2d\u6e56\u662f\u5bcc\u58eb\u5c71\u5c71\u68a8\u53bf\u4e00\u4fa7\u7684\u6de1\u6c34\u6e56\uff0c\u5bcc\u58eb\u4e94\u6e56\u4e4b\u4e00\uff0c\u4e3a\u5bcc\u58eb\u4e94\u6e56\u4e2d\u6700\u5927\u7684\u6e56\u6cca\uff0c\u6e56\u8fb9\u6709\u5c71\u4e2d\u6e56\u6751\u3002","isarea":"0","relecity":"","relecountry":null,"yahoo_city_id":"0","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5c71\u4e2d\u6e56","en_name":"Yamanaka-ko","py_name":"shanzhonghu","name_url":"","country_id":"14","is_capital":"0","author_uid":"20","admin_uid":"20","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":null,"doing_time":1456103594},"65":{"id":"65","cityname":"\u4eac\u90fd","cityname_en":"Kyoto","cityname_py":"jingdu","cityname_url":"","countryid":"14","tag_ids":"11594,11604,11605,11606,11607,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,10147,11620,11621,11622,11625","iscapital":"0","lat":"35.011635","lng":"135.768036","zoom":"12","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"1","population":"147","area":"827","language":"\u65e5\u8bed","pressure":"100v","rate":"50Hz","power_supply":"A,B","phone_zone":"75","datetime":"1332328819","lastauthor":"760","lastdate":"1476200025","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh-cn.html?aid=338350;label=mainupbutten;sid=3bb5633e84824b4bbfa4b75cd206fcef;dcid=1;city=-235402;inac=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Asia\/Japan\/","status":"1","bestmonths":"1,2,3,4,5,6,7,8,9,10,11,12","plantocounts":"44327","beentocounts":"58075","livedcounts":"124","default_img":"","cost":"1000","playdays":"4","fundays":"2.56","plancounts":"13714","visatype":"1","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"10438,14054","relecountry":"","yahoo_city_id":"15015372","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11329\",\"n\":\"\",\"on\":\"\u9526\u56ca\u7cbe\u9009\u9910\u5385\"},{\"i\":\"11294\",\"n\":\"\u9910\u5385\u597d\u8bc4\u699c\",\"on\":\"\u7f8e\u98df\u597d\u8bc4\u699c\"},{\"i\":\"2017\",\"n\":\"\",\"on\":\"\u7c73\u5176\u6797\u9910\u5385\"},{\"i\":\"10083\",\"n\":\"\u4f20\u7edf\u6000\u77f3\u6599\u7406\",\"on\":\"\u6000\u77f3\u6599\u7406\"},{\"i\":\"10166\",\"n\":\"\",\"on\":\"\u548c\u679c\u5b50\"},{\"i\":\"11047\",\"n\":\"\",\"on\":\"\u5b87\u6cbb\u8336\"},{\"i\":\"11048\",\"n\":\"\",\"on\":\"\u548c\u98df\"},{\"i\":\"249\",\"n\":\"\u5c45\u9152\u5c4b\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"229\",\"n\":\"\",\"on\":\"\u5f53\u5730\u7279\u8272\u7f8e\u98df\"},{\"i\":\"247\",\"n\":\"\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"254\",\"n\":\"\u7f8e\u5473\u751c\u70b9\",\"on\":\"\u751c\u70b9\"}],\"st\":[{\"i\":\"1348\",\"n\":\"\u4eac\u90fd\u7ecf\u51783\u65e5\u6e38\",\"on\":\"\u4e00\u65e5\u6e38\\\/\u591a\u65e5\u6e38\"},{\"i\":\"11272\",\"n\":\"\u6f2b\u6b65\u4eac\u90fd\u597d\u53bb\u5904\",\"on\":\"citywalk\u63a8\u8350\"},{\"i\":\"1942\",\"n\":\"\u4eac\u90fd\u548c\u670d\u4f53\u9a8c\",\"on\":\"\u670d\u9970\u6444\u5f71\"},{\"i\":\"188\",\"n\":\"\u795e\u793e\u5bfa\u5e99\",\"on\":\"\u5bfa\u5e99\"},{\"i\":\"11044\",\"n\":\"\",\"on\":\"\u4eac\u90fd\u4e09\u5927\u796d\"},{\"i\":\"11041\",\"n\":\"\",\"on\":\"\u52a8\u6f2b\u5468\u8fb9\"},{\"i\":\"191\",\"n\":\"\",\"on\":\"\u5386\u53f2\u9057\u5740\"},{\"i\":\"201\",\"n\":\"\u4eb2\u8fd1\u81ea\u7136\",\"on\":\"\u516c\u56ed\\\/\u690d\u7269\u56ed\"},{\"i\":\"175\",\"n\":\"\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"2015\",\"n\":\"\",\"on\":\"\u5730\u6807\u5efa\u7b51\"}],\"sp\":[{\"i\":\"266\",\"n\":\"\",\"on\":\"\u624b\u5de5\u827a\u54c1\"},{\"i\":\"11041\",\"n\":\"\",\"on\":\"\u52a8\u6f2b\u5468\u8fb9\"},{\"i\":\"272\",\"n\":\"\",\"on\":\"\u5316\u5986\u54c1\"},{\"i\":\"275\",\"n\":\"\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"},{\"i\":\"269\",\"n\":\"\",\"on\":\"\u670d\u88c5\"},{\"i\":\"271\",\"n\":\"\",\"on\":\"\u793c\u54c1\u5e97\"},{\"i\":\"1359\",\"n\":\"\",\"on\":\"\u98df\u54c1\"},{\"i\":\"1145\",\"n\":\"\",\"on\":\"\u836f\u5e97\"},{\"i\":\"268\",\"n\":\"\",\"on\":\"\u4e66\u7c4d\u548c\u97f3\u50cf\u5236\u54c1\u5e97\"}]}","cn_name":"\u4eac\u90fd","en_name":"Kyoto","py_name":"jingdu","name_url":"","country_id":"14","is_capital":"0","author_uid":"1","admin_uid":"760","state":"1","visa_type":"1","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"10438,14054","related_country":"","doing_time":1456103612},"6708":{"id":"6708","cityname":"\u5367\u9f99\u5c97","cityname_en":"Wollongong","cityname_py":"wolonggang","cityname_url":"","countryid":"240","tag_ids":"","iscapital":"0","lat":"-34.433334","lng":"150.883331","zoom":"10","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"0","population":"0","area":"0","language":"\u82f1\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"141","lastdate":"1475845735","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"165","beentocounts":"2498","livedcounts":"8","default_img":"","cost":"600","playdays":"1","fundays":"0.85","plancounts":"166","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u4f0d\u4f26\u8d21,\u4e94\u9f99\u5c97,\u4f0a\u62c9\u74e6\u62c9","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"56916435","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5367\u9f99\u5c97","en_name":"Wollongong","py_name":"wolonggang","name_url":"","country_id":"240","is_capital":"0","author_uid":"0","admin_uid":"141","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1468371207},"6652":{"id":"6652","cityname":"\u5361\u901a\u5df4","cityname_en":"Katoomba","cityname_py":"katongba","cityname_url":"","countryid":"240","tag_ids":"","iscapital":"0","lat":"-33.700001","lng":"150.300003","zoom":"8","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"0","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"141","lastdate":"1475331530","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"54","beentocounts":"839","livedcounts":"0","default_img":"","cost":"600","playdays":"1","fundays":"0.57","plancounts":"29","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1103007","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u5361\u901a\u5df4","en_name":"Katoomba","py_name":"katongba","name_url":"","country_id":"240","is_capital":"0","author_uid":"0","admin_uid":"141","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1468371210},"10438":{"id":"10438","cityname":"\u5b87\u6cbb\u5e02","cityname_en":"Uji","cityname_py":"yuzhishi","cityname_url":"","countryid":"14","tag_ids":"","iscapital":"0","lat":"34.884460","lng":"135.799850","zoom":"13","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"132","population":"0","area":"0","language":"","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1375339304","lastauthor":"20","lastdate":"1476178169","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"1930","beentocounts":"2935","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.48","plancounts":"300","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"\u5b87\u6cbb\u5e02","hotel_num":"0","importips":"","introduction":"\u8fd9\u662f\u4e00\u4e2a\u5386\u53f2\u5341\u5206\u60a0\u4e45\u7684\u5b81\u9759\u5c0f\u57ce\uff0c\u6709\u8457\u540d\u7684\u5b87\u6cbb\u5ddd\u7a7f\u6d41\u800c\u8fc7\uff0c\u81ea\u53e4\u4fbf\u4f5c\u4e3a\u8fde\u63a5\u5948\u826f\u548c\u4eac\u90fd\u7684\u8981\u9053\uff0c\u4ee5\u5176\u8457\u540d\u7684\u201c\u5b87\u6cbb\u62b9\u8336\u201d\u3001\u201c\u5e73\u7b49\u9662\u201d\u548c\u201c\u5b87\u6cbb\u4e0a\u795e\u793e\u201d\u800c\u95fb\u540d\u3002","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"28494636","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11047\",\"n\":\"\",\"on\":\"\u62b9\u8336\"},{\"i\":\"245\",\"n\":\"\u65e5\u5f0f\u70e7\u70e4\",\"on\":\"\u70e7\u70e4\"},{\"i\":\"249\",\"n\":\"\u5c45\u9152\u5c4b\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"247\",\"n\":\"\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"262\",\"n\":\"\",\"on\":\"\u7f8e\u5f0f\u9910\"},{\"i\":\"376\",\"n\":\"\",\"on\":\"\u897f\u9910\"},{\"i\":\"265\",\"n\":\"\",\"on\":\"\u610f\u5927\u5229\u83dc\"}],\"st\":[{\"i\":\"188\",\"n\":\"\u795e\u793e\u5efa\u7b51\",\"on\":\"\u5bfa\u5e99\"},{\"i\":\"10356\",\"n\":\"\",\"on\":\"\u8336\u9053\"},{\"i\":\"10070\",\"n\":\"\u62b9\u8336\u7279\u4ea7\",\"on\":\"\u7279\u4ea7\"},{\"i\":\"175\",\"n\":\"\u5386\u53f2\u6587\u5316\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"670\",\"n\":\"\",\"on\":\"\u4e16\u754c\u9057\u4ea7\"},{\"i\":\"249\",\"n\":\"\u5c45\u9152\u5c4b\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"2021\",\"n\":\"\",\"on\":\"\u4e3b\u9898\u89c2\u5149\"}],\"sp\":null}","cn_name":"\u5b87\u6cbb\u5e02","en_name":"Uji","py_name":"yuzhishi","name_url":"","country_id":"14","is_capital":"0","author_uid":"132","admin_uid":"20","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1469022071},"63":{"id":"63","cityname":"\u4e1c\u4eac","cityname_en":"Tokyo","cityname_py":"dongjing","cityname_url":"","countryid":"14","tag_ids":"11594,11604,11605,11606,11607,11608,11609,11610,11611,11612,11613,11614,11615,11616,11617,11618,11619,10144,10143,10147,11620,11621,11625","iscapital":"1","lat":"35.689487","lng":"139.691711","zoom":"9","timezone":"UTC+9","currency":"\u65e5\u5143,JPY","author":"21","population":"1301","area":"2162","language":"\u65e5\u8bed","pressure":"100v","rate":"50Hz","power_supply":"A,B","phone_zone":"3","datetime":"1328607966","lastauthor":"760","lastdate":"1476203673","bbs_url":"","hotels_url":"http:\/\/www.booking.com\/searchresults.zh.html?aid=338350;label=mainupbutten;sid=986e7f1b40ea6817fadcec11b1d18b10;dcid=1;class_interval=1;in_around_clicked=0;offset=0;redirected_from_city=0;redirected_from_landmark=0;review_score_group=empty;score_min=0;si=ai%2Cco%2Cci%2Cre%2Cdi;src=index;ss_all=0;;city=-246227;origin=disamb;srhash=2277796315;srpos=1","rentcar_url":"","assure_url":"http:\/\/bx.go2eu.com\/manyinsure.do?method=showManyinsure&ipcid=2","visa_url":"http:\/\/qz.go2eu.com\/visa\/Asia\/Japan\/","status":"1","bestmonths":null,"plantocounts":"62958","beentocounts":"70274","livedcounts":"812","default_img":"","cost":"1000","playdays":"4","fundays":"2.98","plancounts":"14648","visatype":"1","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1118370","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"11294\",\"n\":\"\",\"on\":\"\u7f8e\u98df\u597d\u8bc4\u699c\"},{\"i\":\"10082\",\"n\":\"\",\"on\":\"\u5bff\u53f8\"},{\"i\":\"257\",\"n\":\"\",\"on\":\"\u65e5\u672c\u6599\u7406\"},{\"i\":\"10162\",\"n\":\"\",\"on\":\"\u65e5\u5f0f\u62c9\u9762\"},{\"i\":\"10184\",\"n\":\"\",\"on\":\"\u5bff\u559c\u70e7\"},{\"i\":\"249\",\"n\":\"\u5c45\u9152\u5c4b\",\"on\":\"\u9152\u9986\\\/\u9152\u5427\\\/\u5c45\u9152\u5c4b\"},{\"i\":\"252\",\"n\":\"\",\"on\":\"\u6d77\u9c9c\"},{\"i\":\"10100\",\"n\":\"\",\"on\":\"\u70e4\u8089\"},{\"i\":\"247\",\"n\":\"\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"230\",\"n\":\"\",\"on\":\"\u9762\u5305\u7cd5\u70b9\"}],\"st\":[{\"i\":\"1348\",\"n\":\"\u4e1c\u4eac\u7ecf\u51783\u65e5\u6e38\",\"on\":\"\u4e00\u65e5\u6e38\\\/\u591a\u65e5\u6e38\"},{\"i\":\"285\",\"n\":\"\u65e5\u672c\u6e29\u6cc9\",\"on\":\"\u6e29\u6cc9\"},{\"i\":\"2012\",\"n\":\"\u4e1c\u4eac\u4eb2\u5b50\u6e38\",\"on\":\"\u4e3b\u9898\u516c\u56ed\\\/\u6e38\u4e50\u573a\\\/\u6c11\u4fd7\u6751\"},{\"i\":\"11041\",\"n\":\"\u4e8c\u6b21\u5143\u4e16\u754c\",\"on\":\"\u52a8\u6f2b\u5468\u8fb9\"},{\"i\":\"10971\",\"n\":\"\u8d4f\u6a31\u76db\u5730\",\"on\":\"\u6a31\u82b1\"},{\"i\":\"335\",\"n\":\"\u827a\u672f\u9986\",\"on\":\"\u827a\u672f\u9986\\\/\u5c55\u89c8\u4e2d\u5fc3\"},{\"i\":\"183\",\"n\":\"\",\"on\":\"\u5efa\u7b51\"},{\"i\":\"188\",\"n\":\"\",\"on\":\"\u5bfa\u5e99\"},{\"i\":\"175\",\"n\":\"\",\"on\":\"\u535a\u7269\u9986\"}],\"sp\":[{\"i\":\"272\",\"n\":\"\",\"on\":\"\u5316\u5986\u54c1\"},{\"i\":\"362\",\"n\":\"\u8840\u62fc\u4e1c\u4eac\",\"on\":\"\u8d2d\u7269\u8857\\\/\u5546\u5708\"},{\"i\":\"268\",\"n\":\"\u97f3\u50cf\u5e97\",\"on\":\"\u4e66\u7c4d\u548c\u97f3\u50cf\u5236\u54c1\u5e97\"}]}","cn_name":"\u4e1c\u4eac","en_name":"Tokyo","py_name":"dongjing","name_url":"","country_id":"14","is_capital":"1","author_uid":"21","admin_uid":"760","state":"1","visa_type":"1","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1472083224},"6655":{"id":"6655","cityname":"\u582a\u57f9\u62c9","cityname_en":"Canberra","cityname_py":"kanpeila","cityname_url":"","countryid":"240","tag_ids":"11603","iscapital":"1","lat":"-35.283333","lng":"149.216660","zoom":"6","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"0","population":"0","area":"0","language":"","pressure":"230v","rate":"50Hz","power_supply":"","phone_zone":"0061","datetime":"1339984800","lastauthor":"155","lastdate":"1476203574","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"742","beentocounts":"6553","livedcounts":"24","default_img":"","cost":"600","playdays":"1","fundays":"1.13","plancounts":"853","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"13355","relecountry":"","yahoo_city_id":"1100968","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"{\"fd\":[{\"i\":\"252\",\"n\":\"\u6fb3\u6d32\u6d77\u9c9c\",\"on\":\"\u6d77\u9c9c\"},{\"i\":\"2447\",\"n\":\"\u9c9c\u7f8e\u725b\u6392\",\"on\":\"\u725b\u6392\"},{\"i\":\"254\",\"n\":\"\u6fb3\u6d32\u751c\u54c1\",\"on\":\"\u751c\u70b9\"},{\"i\":\"263\",\"n\":\"\u4e9a\u6d32\u98ce\u5473\",\"on\":\"\u4e9a\u9910\"},{\"i\":\"10082\",\"n\":\"\u65e5\u5f0f\u5bff\u53f8\",\"on\":\"\u5bff\u53f8\"},{\"i\":\"376\",\"n\":\"\u7cbe\u7f8e\u897f\u9910\",\"on\":\"\u897f\u9910\"},{\"i\":\"10100\",\"n\":\"\u591a\u6c41\u70e4\u8089\",\"on\":\"\u70e4\u8089\"},{\"i\":\"247\",\"n\":\"\",\"on\":\"\u5496\u5561\u9986\"},{\"i\":\"246\",\"n\":\"\",\"on\":\"\u571f\u8033\u5176\u83dc\"}],\"st\":[{\"i\":\"175\",\"n\":\"\u535a\u7269\u9986\u4e4b\u65c5\",\"on\":\"\u535a\u7269\u9986\"},{\"i\":\"2530\",\"n\":\"\",\"on\":\"\u70ed\u6c14\u7403\"},{\"i\":\"10467\",\"n\":\"\",\"on\":\"\u6e38\u8239\u89c2\u5149\"},{\"i\":\"2525\",\"n\":\"\u73af\u6e56\u9a91\u884c\",\"on\":\"\u9a91\u884c\"},{\"i\":\"2022\",\"n\":\"\u582a\u57f9\u62c9\u82b1\u8282\",\"on\":\"\u52a8\u690d\u7269\u89c2\u8d4f\"},{\"i\":\"335\",\"n\":\"\u827a\u672f\u4e2d\u5fc3\",\"on\":\"\u827a\u672f\u9986\\\/\u5c55\u89c8\u4e2d\u5fc3\"},{\"i\":\"199\",\"n\":\"\u5927\u81ea\u7136\u4e4b\u7f8e\",\"on\":\"\u81ea\u7136\u98ce\u5149\"}],\"sp\":[{\"i\":\"275\",\"n\":\"\",\"on\":\"\u8d2d\u7269\u4e2d\u5fc3\"},{\"i\":\"336\",\"n\":\"\u6f6e\u6d41\u65f6\u5c1a\",\"on\":\"\u65f6\u5c1a\u8d2d\u7269\"},{\"i\":\"274\",\"n\":\"\u8d85\u5e02\u767e\u8d27\",\"on\":\"\u8d85\u5e02\"},{\"i\":\"273\",\"n\":\"\u5c45\u5bb6\u751f\u6d3b\",\"on\":\"\u5bb6\u5c45\"}]}","cn_name":"\u582a\u57f9\u62c9","en_name":"Canberra","py_name":"kanpeila","name_url":"","country_id":"240","is_capital":"1","author_uid":"0","admin_uid":"155","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"13355","related_country":"","doing_time":1472480931},"11185":{"id":"11185","cityname":"\u53e4\u5c14\u672c","cityname_en":"Goulburn","cityname_py":"guerben","cityname_url":"","countryid":"240","tag_ids":"","iscapital":"0","lat":"-34.754833","lng":"149.718643","zoom":"8","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"51","population":"0","area":"0","language":"\u82f1\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1381908883","lastauthor":"141","lastdate":"1472900506","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":null,"plantocounts":"3","beentocounts":"72","livedcounts":"0","default_img":null,"cost":"0","playdays":"1","fundays":"0.44","plancounts":"9","visatype":"0","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"0","relecity":"","relecountry":"","yahoo_city_id":"1102397","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"0","editor_tag":"","cn_name":"\u53e4\u5c14\u672c","en_name":"Goulburn","py_name":"guerben","name_url":"","country_id":"240","is_capital":"0","author_uid":"51","admin_uid":"141","state":"1","visa_type":"0","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"0","related_city":"","related_country":"","doing_time":1472900506},"6666":{"id":"6666","cityname":"\u6fb3\u5927\u5229\u4e9a\u84dd\u5c71","cityname_en":"Blue mountains,Australia","cityname_py":"lanshan","cityname_url":"Blue mountains Australia","countryid":"240","tag_ids":"","iscapital":"0","lat":"-33.650654","lng":"150.442825","zoom":"6","timezone":"UTC+10-DE","currency":"\u6fb3\u6d32\u5143,AUD","author":"0","population":"0","area":"0","language":"\u82f1\u8bed","pressure":"","rate":"","power_supply":"","phone_zone":"","datetime":"1339984800","lastauthor":"194","lastdate":"1475938232","bbs_url":"","hotels_url":"","rentcar_url":"","assure_url":"","visa_url":"","status":"1","bestmonths":"","plantocounts":"753","beentocounts":"3764","livedcounts":"2","default_img":"","cost":"600","playdays":"1","fundays":"0.77","plancounts":"1102","visatype":"","adminid":null,"bbsuse":"1","hotpoicounts":"6","oneday_num":"0","alias":"","hotel_num":"0","importips":"","introduction":"","isarea":"1","relecity":"6652,11423","relecountry":"","yahoo_city_id":"55863855","source_type":"1","source_id":"0","admin_rank":"0","province_id":"0","trip_area":"1","editor_tag":"","cn_name":"\u6fb3\u5927\u5229\u4e9a\u84dd\u5c71","en_name":"Blue mountains,Australia","py_name":"lanshan","name_url":"Blue mountains Australia","country_id":"240","is_capital":"0","author_uid":"0","admin_uid":"194","state":"1","visa_type":"","bbs_use":"1","hot_poi_count":"6","chinese_hotel_num":"0","important_tips":"","is_area":"1","related_city":"6652,11423","related_country":"","doing_time":1472900604}};
+var map_plantocity = null;
+var map_livedcity = [];
+var map_uid = 2505246;
+var last_map_zoom_size = map_svg_init_config.initialZoom;
+</script>
+<div class="u_ind_map">
+    <div class="title">
+               <h3 class="text"><strong class="fontYaHei">探访TA的足迹世界和旅行梦想</strong><span class="fontArial">Explore the world</span></h3>
+               <ul class="uIndSpoor">
+            <li><span class="tit">去过</span><span class="spoor"><a data-bn-ipg="usercenter-place-country" href="http://www.qyer.com/u/2505246/footprint">10</a>国家</span><span class="spoor"><a data-bn-ipg="usercenter-place-city" href="http://www.qyer.com/u/2505246/footprint">47</a>城市</span></li>
+            <li class="dps"><span class="tit">点评</span><a data-bn-ipg="usercenter-place-progressbar" href="http://www.qyer.com/u/2505246/footprint" class="dpings"><span class="dpingProgress" style="width: 0%;"></span></a><em class="dpingSum">0 / 0</em><p class="dpHoverTitle">去过 0 个目的地<br />点评过 0 个目的地</p></li>
+        </ul>
+       </div>
+       <div class="map_all">
+        <div data-bn-ipg="usercenter-place-map" class="map" id="map" style="background-color:#B0DFF1">
+        <!--<img src="../../images/user2/temp/map_678x352.jpg" width="678" height="352" alt="" /> -->
+        <!--没有添加足迹 -->
+                </div>
+           <div id="mapControls"><a id="up" href="javascript:;"></a><a id="down" href="javascript:;"></a></div>
+       </div>
+       <div class="operate">
+        <div class="fl">
+            <label data-bn-ipg="usercenter-place-beento" class="red"><input type="checkbox" checked="checked" id="_jsbenntocity_show"/><span>去过</span></label>
+            <label data-bn-ipg="usercenter-place-planto" class="orange"><input type="checkbox" checked="checked" id="_jsplantocity_show" /><span>想去</span></label>
+           </div>
+           <div class="fr mani">
+                       <a data-bn-ipg="usercenter-place-detail" target="_blank" href="http://www.qyer.com/u/2505246/footprint" class="more">更多详情</a>
+                       </div>
+       </div>
+       
+   </div>
+
+<script type="text/javascript">
+$(function(){
+    //去过隐藏显示
+    $("#_jsbenntocity_show").click(function(){
+        if(this.checked){
+            city.show();
+        }else{
+            city.hide();
+        }
+    });
+    //想去隐藏显示
+    $("#_jsplantocity_show").click(function(){
+        if(this.checked){
+            plantocity.show();
+        }else{
+            plantocity.hide();
+        }
+    });
+    });
+</script>
+<!--首页地图  结束 -->         <!--游记 -->
+        <div class="u_ind_item">
+    <div class="u_title">
+    <strong class="text">TA的游记</strong>
+    <a href="http://www.qyer.com/u/2505246/travel" class="u_ind_more"  data-bn-ipg="usercenter-travelnote-more-top">更多</a>
+    <span class="number fr"><a href="http://www.qyer.com/u/2505246/travel" data-bn-ipg="usercenter-travelnote-num">1</a>篇游记 <em>|</em> <a href="http://www.qyer.com/u/2505246/travel" data-bn-ipg="usercenter-travelnote-star">1</a>个精华</span>
+    </div>
+<!--无游记 -->
+
+    <!--游记列表内容 -->
+    <div id="userhometravel">
+    <div class="u_ind_travel">
+    <div class="u_travel_item">
+                                        <div class="u_travel_list u_travel_list_one  u_travel_yes_plan">
+                <a href="http://bbs.qyer.com/thread-2586615-1.html" class="u_travel_list_link" data-bn-ipg="usercenter-travelnote-forum">
+                    <div class="img">
+                        <p><img src="http://pic1.qyer.com/album/user/1890/60/QEFcQhwHZkE/index/680x110" onerror="this.src='http://static.qyer.com/images/user2/nullimage/travels_680_110.jpg'" width="678" height="110" alt="" /></p>
+                        <span class="img_border"><span class="green"></span><span class="orange"></span></span>
+                                                <div class="common">
+                                                                                            <img src="http://static.qyer.com/images/user2/index/travel_common_yes.png" width="14" height="14" alt="" />
+                                                                                                                            <img src="http://static.qyer.com/images/user2/index/travel_common_no.png" width="14" height="14" alt="" />
+                                                                                                                            <img src="http://static.qyer.com/images/user2/index/travel_common_no.png" width="14" height="14" alt="" />
+                                                                                        <div class="tips">一级精华</div>
+                        </div>
+                                            </div>
+                    <div class="info">
+                        <span class="fl">发表在 <span>日本</span> 版</span>
+                        <span class="fr">2016-08-24</span>
+                    </div>
+                    <div class="title fontYaHei">【对世界上瘾】追寻富士山の酸甜苦辣日本行【东京+箱根+河口湖+京都+宇治】</div>
+                    <div class="text"> 虽然日本旅游很早就受到国人的喜爱，但我一直对这个频繁在电视新闻、历史课本中出现的国家没有特别的感觉。年轻的时候觉得旅行就该去远的地方，而随着年龄的增长 （痛心），越来越对长时间的路途奔波有了隐隐的抵触感。因此，日本便成为我此次旅行的目的地之一。我在韩国和日本粗略的比较之后，日本料理果断PK掉了韩国料理。于是，目的地就这样决定了。  其实以前对日本真的关注的很少，少到几乎是没有，除了爱吃日料外...... 既然选定了国家，下一步就是要确认城市。通常，首都是我首选的落地城市。简单看了几篇网友的攻略后，我对北海道产生的莫名的好感。于是，最初的行程计划：东京-京都-北海道。瞬间觉得这段旅程11天会是远远是不够的，于是马上放弃。第二次行程计划：东京-北海道。但没出两天，我就被网友上传的北海道厚厚积雪的阵势所吓倒，于是打了退堂鼓。第三次行程计划：东京-箱根-京都-奈良-大阪。这条线路很适合我这样对日本没有什么了解的人完成，毕竟算是初级入门版吧。但仅仅看完东京的帖子后，我觉得自己计划的旅行时间还是不足够玩这么多城市。接下来，第四次终极版行程出来了：东京-箱根-河口湖-京都。由于时间有限（哎，还是时间....... ），我决定东进阪出。   准备篇    机票   由于我在悉尼，要回北京，顺便去日本玩。机票就不想再搞的太复杂，因此决定买国行的联程机票，即悉尼-北京-东京，大阪-北京-悉尼，总共$1440澳元/每人。托运行李不错，每人2件，每件23kg。来回都赶上了大旺季-----圣诞+春节。P.S. 后来因为回悉尼日期要有变动，改签每人贵了$560澳元/人…… 总共$2000澳元/人，好心疼。  酒店  此次日本行的酒店，除河口湖外，全部在Booking定的。      东京 4晚    Nishi Shinjuku Hotel MyStays（西新宿MyStay酒店）   四晚共计￥43200日元  不知道是不是新宿宾馆都贵，总之感觉一般般了      箱根1晚    Ashinoko Ichinoyu（芦之湖 一之汤旅馆）   一晚共计￥19740日元  包半食宿，当天的晚餐和第二天的早餐  特色是包含了40分钟的私人温泉      河口湖 2晚    FUJI GINKEI 富士吟景   一晚共计￥28300日元  包半食宿，当天的晚餐和第二天的早餐  有室内外两个公共温泉，可借用酒店的浴衣  这是全程我们住的最贵的宾馆，开始犹豫了好久好久，去过的网友都说物有所值，但又觉得贵。不过，真的是超喜欢！！      Kawaguchiko Station Inn（河口湖站旅馆）   ---完全在计划外---  一晚共计￥8700日元  这是我们半夜近11点拖着箱子找到的最近的旅馆了，住宿条件很凄惨      京都 3晚    Hotel Grand Bach (京都巴赫大酒店)    三晚共计￥16362日元    酒店晚上提供免费的咖啡和茶泡饭，装修很新，卫浴看着很高级    这个酒店应该是全程性价比最高的地方了，也很喜欢~    签证   在悉尼申请的日本签证，流程比较简单，只要按照领馆网站的规定，准备好材料就好了。  签证费$31澳元/人+$7澳元/人的银行对账单  电源  日本的电压是110v。如果携带三项插头的电器, 就需要一个插口转换器  其他   在淘宝上租的WIFI，8.8人民币/天，押金500，机场取。    提前在中国银行换了￥100000日元的现金，汇率5.6264。现金花完后的消费和全程酒店都是刷卡    日本很多地方可以盖章, 可以准备一本精美的小本子收集各种盖章         东京篇    D1：北京-东京新宿   9：10，CA925的飞机。没出意外，在北京晚点了一个小时。  飞机上有个小插曲：飞机要降落时，空乘广播说“飞机即将降落在成田机场”的英文时，Narita International Airport竟然直接说的是Cheng Tian International Airport。国航的空姐就是霸气外露，希望有一天祖国的强大让我们的Chinglish代替English 。  本应13:40到达成田机场，但由于北京起飞时的晚点，到达东京也顺延了一小时。  随后又因为入境卡的问题，耽误很久的时间。最初是因为我的信息没有写全，排队入关时候被要求填写完整。接着再排队时，被告知我不能够用天蓝色的水笔填写。第三次排队到了一半的时候，可能因为队伍太长，服务人员要求包括我们在内的人换到另一个窗口重新排队…… 就这样，正式入境后已经是原计划时间的两个多小时后了。    由于要在东京待三个整天（到达和离开的两天不算），因此「Skyliner＆Tokyo Subway 3 Day Ticket」很适合。这个套票包含：单程skyliner车票和东京地铁＆都营地铁三日券。缺点就是，我们在东京住新宿，Skyliner不能直达，需要再日暮里换成JR 山手线。  简单介绍一下，我是2016年1月去的日本，7月写的这篇帖子，听说★2016 年 3 月 26 日以後，「Skyliner＆Tokyo Subway Ticket」原本搭配的「東京地鐵＆都營地鐵 1～3 日券」，已改為新推出的「東京地鐵＆都營地鐵 24～72 小時券」。但区别不是很大。  Skyliner单程/往返+东京地铁＆都营地铁一/二/三日票价格  密密麻麻的东京地铁线路图    出关后买Skyliner+东京地铁＆都营地铁三日券时，已经卖光，惨……最后买了Skyliner+东京地铁＆都营地铁两日券，￥3200日元。在东京的第三天只好单独再买一次一日券了。  买套票时，工作人员会确认你要乘坐Skyliner的班次，然后直接出票。  S地铁两日票    Skyliner来了  到日暮里后，买了票，换车去新宿。山手线统一价￥200日元。    JR山手线的车    到了新宿，拉着箱子走了一会儿就到了酒店。  先去办理入住，酒店大厅提供了DHC基础护肤品（一次性装）和咖啡机。    办好入住后坐电梯来到房间，推门一瞬间，发现房间挤的惊人。      这张我是坐在床上照的，放下箱子后基本没有下脚的地方了。  总之一切都很紧凑    打开行李箱，发现抱侥幸心理托运的充电宝被海关查获没收了……只留下了一张通知单。 那个充电宝是我专门为这次旅行买的，还一次都没有用过，桑心。没办法，下次长记性吧。  天色已晚，决定出去走走。来到了传说中的一兰拉面，排了一会儿队。  等位时候看到了一个显示里面空位的仪器。根据这个判断，后来我们的座位号是二十七和二十八~      我们点的都是“基础版”。也许是看网上的赞扬太多了，吃起来真心一般。  之后就是漫无目的的在周围闲逛和拍照。  歌舞伎町，每个到新宿的人都拍照过吧     东京的夜晚还是很热闹的  第一天总是看哪里都新鲜~      回酒店的路上，便利店买了夜宵和饮料。那盒鱼子是之前在伊势丹买的，￥3000日元。感觉买的好突兀，而且不能久放，没办法，只好一口气都吃光了……      D2：筑地市场-浅草寺-晴空塔-秋叶原-都厅  清早一睁眼，窗外银装素裹，格外兴奋。好久没有见过这么大的雪了。    然而，等我们出门时，雪却变成了雨，还很大。冒着大雨，踩着多半已化成水的积雪，出门不到十米，浑身上下全部湿透。就这样开始了第二天的行程。    我们先去买了富士箱根周游券，总怕出行当天卖光了。  简单介绍一下，凭借一张周游券就可以周游富士、箱根地区，3天内有效，从新宿出发，￥7400日元。不过据说★新版从2016年4月1日开始发售，涨价了，￥8000日元。但包含的项目也有所增加。  内容包括  (1)不限次数搭搭区间  【箱根地区】  ①箱根登山电车  ②箱根登山巴士（指定区间）  ③箱根登山缆车  ④箱根空中缆车  ⑤箱根海贼观光船  ⑥小田急箱根高速巴士（指定区间）  ⑦箱根登山「观光景点巡遊巴士」  ⑧沼津登山东海巴士（指定区间）  【富士地区】  ⑨富士急行线 河口湖站～下吉田站  ⑩富士急巴士 御殿场站～河口湖站及富士五湖周边路线巴士全线、河口  湖・西湖周遊巴士、富士湖號、富士山世界遗产环行巴士  (2)优惠  凡出示富士箱根周遊券，即可在箱根地区、富士地区的多个设施享有优惠。  (3)下述区间为期间内，仅能单程上下车１次  ①小田急线  新宿～小田原  ※若搭乘“浪漫”特快，必须另外购买特快车券８９０日圆（新宿～小田原・  箱根汤本之间）  ②中央高速巴士  河口湖～新宿高速巴士总站        买好票后，坐地铁来到了筑地市场。雨势渐大，我们和大部分人一样，在地铁站等待。雨不见小，只好撑伞前行。  这里真的就是个大市场……    由于裤子和鞋都很湿，我们没走几步就冻得不行。看到筑地市场的信息中心就进去了。店里的服务员给了我们一张筑地市场的地图。顺便向他咨询了大定的位置。  大定，据说是一家有80年历史的人气老字号。买了一块原味玉子烧。  接着走进了一个室内大棚，里面各式摊位，买着各种海鲜。  随机的买了扇贝刺身，￥1000日元一盒，扇贝真的很大，值！    走出大棚，饥寒交迫。路过了著名的【寿司大】和【大和寿司】，早已人满为患。我忍不了下着雨的寒冬时节打伞等位，于是照了张照片就离开了。      回到地铁站，坐车去上野附近的伊豆荣本店。    据说是老字号的鳗鱼饭，可以追溯到江户中期，大概1740年左右。  环境不错，容器也好看  但是鳗鱼有刺，做法也比较清（不）淡（甜）。    本来想在这里把筑地市场买的扇贝刺身吃掉，省的提着它走一天。但是问了服务员能否吃外带食品后，她吃惊的又问了我一遍后，表示不能吃…… 我心中一个大大的白眼：至于的吗，不能就算了，还搞得那么夸张~   由于到店早，错开了高峰期，当我们准备离开时，发现门口已经开始排队。  这时雨小了很多，我们继续前往浅草寺。  通向雷门的是仲见世商店街，两边各式小店。  类似人形烧的小吃，口味不同  雷门前，人很多    再加上下雨实在太冷，我们就草草的看了一下，离开去了晴空塔。  到了那里不久，天彻底晴了。逛了会商店，买了一个带挂架的布画。后来发现，日本人真的很喜欢布。  来日本怎能不吃章鱼小丸子~但这竟然是我整个行程唯二吃的一次   一口咬下去，真的都能看到章鱼肉。   顺便把我拿了一天的扇贝刺身大口吃掉。因为在晴空塔暖暖的室内逛了一阵，扇贝早已是常温了。。。    我对动漫兴趣并不浓厚，因此秋叶原并不是行程的重点。于是只去了BOOKOFF。这里的书很新也便宜。虽然是看不懂的日文，我也象征性的购入了一本有关京都旅游的书~    准备坐地铁回宾馆前，吃了一顿松屋，真的是好吃又便宜的牛内饭~~  回酒店休息了一会，感觉时间还不算很晚，于是去了今天的最后一站----都厅。因为那里的地铁附近施工，我们找了一小下。开始还以为关门了。从进入都厅开始，服务人员就让我感受到了一股庄严的气氛。等待电梯，之后便直达45层。  观景平台可以饱览东京夜景，只可惜室内灯光亮，玻璃会反光。      都厅可以盖章。  日本有很多可以盖章的地方，喜欢的朋友一定要记得带一个盖章本来。我的大部分章都是在东京地铁站盖的。好像都营线各站的入口都有印章。  回到宾馆休息了一下。此时午夜已过，想起回来的路上看到了网友推荐过的矶丸水产。      虽然早已过了午夜，但店内一度座无虚席。东京人真的很喜欢夜生活~  混合的刺身。但三文鱼肉里的筋有点多，嚼的不爽。    懒得剥皮，看来我还是适合甜虾或者牡丹虾刺身 。    这个炸物有些特点。桌子上有一个装满酱汁的容器，食客可在吃之前把串放到容器内沾汁。但是规定只能沾一次，违反者罚款。应该是为了卫生安全吧，避免有人食用过一半后，再去沾公共酱汁。    吃完这顿，今天最后一项任务，去便利店。买了牛奶和类似大福的甜品。      D3：涩谷-表参道-朝日电视台-东京塔  今天第一站--涩谷  我还是比较喜欢东京街头的广告牌，大、亮、艳。希望北京的空气质量早日提高，让我们的广告牌也褪去灰灰的尘土。       忠犬八公，很多人因为看了它的经历改编的电影后，哭的稀里哗啦。据说，如今涩谷站前的八公犬铜像，已是人们等待朋友的最佳场所。    本想先去鱼米吃早餐，但到了门口发现11点才开门。  于是去了旁边的109逛一逛，这算是涩谷的标志性地点了。    吃饭时间到啦。我们是第一个到达店内的客人。  它家是用平板电脑点餐。    菜品做好后会在快速传送带上运送到顾客面前。嗖~    两个人的食量    饭后去了高大上的标参道和青山  建筑都是设计师设计过的    PRADA    路过一个不知道名字的稻荷神社，名字都被巧妙的遮挡住了 。好像叫大松稻荷    回到涩谷的欧舒丹咖啡厅，喝了下午茶。  开始还等了会儿位    点了一份甜品组合和两杯饮料            顺便感受一下全球最繁忙的路口    接着我们去了LOFT。逛了很久，完全耽误到了随后的计划。却在结帐和退税时发生了多次的不顺利。最后弄得心烦意乱，全部退货了。但不知什么原因，大约20%竟退了现金，剩余的被告知两周后退到卡里。事实证明，剩余的80%退款是在两个月后我发邮件“讨债”回来的。就这样，几个小时就白白没了。  随后的心情犹如跌入谷底，本计划去六本木，却因为时间原因只能草草的看了一眼。  大蜘蛛雕塑    接着走到朝日电视台  各种节目展示板  还有哆啦a梦主题展~  最后来到东京塔附近。据说在2012年2月晴空塔建成前，一直为东京第一高建筑。拍了张照片，结束了一天的行程。    贩卖机里身材修长的可乐    回宾馆路上买了一些面包~在房间休息了一会儿。  晚饭是拉面，真的很好吃。寒冷的冬天吃上一碗热面，喝上一口浓汤，幸福~ 在这里把我整个下午的失落心情拉了回来。  餐具很有中国特色    D4：歌舞伎座--银座-有乐町  由于到东京的第一天没有买到东京地铁＆都营地铁三日券，今天只好单独买了东京Metro地铁一日票，￥600日元。据说★东京Metro地铁一日票于2016年3月25日更换为东京Metro地铁24小时车票。个人觉得很好，更为灵活。  第一站，歌舞伎座。  由于语言上的不通，外加本身兴趣也不浓，所以没有看歌舞伎表演。在离开时，发现了专营歌舞伎主题特色商品的礼品屋。每件商品都颇具特色，还有受欢迎商品的排名。我竟然逛了好久。最终买了几样小纪念品带回家。这里的布画和挂架是分着卖的，后来证明，那个架子真的太贵了。我在箱根看到了一模一样的，同样价格能买四个了……        之后又是便利店买水。感觉离开日本时，我快把罐装饮料喝了个遍。  往银座走，看到了不二家，买了泡芙。然后就是逛呀逛，此处省略。  看到一家面包店~随便选了几种。    索尼大厦，连测试相机的微景观都做的如此漂亮精致。    然后去了有乐町，先在一家小店吃了茶泡饭。  就是要把壶里的汤汁倒入盛米饭的碗里。但我更爱吃里面的生鱼片。     饭后去了无印良品。有很多国内没有见过的商品。没有尝试Cafe&amp;Meal MUJI的饭，只喝了杯水，竟然还要排队等位。  回到新宿，在街边的药妆店看到了带放大镜的指甲刀，买了一个。老人用应该很贴心，但我试了试，还是去掉放大镜更适应。  晚上在宾馆赠送的地图上，看到了一家烤肉自助的广告，就在歌舞伎町。决定一试。    滋~~~~不过肉质和环境一般啦，不是我的菜。   今天是在东京的最后一晚，便利店买了点吃的，就回去打包箱子了。   箱根篇    D5：新宿-箱根   由于到了东京第二天就把富士箱根周游券买好了，今天退房后直接去了车站。    我们的行程是东京-箱根-河口湖，之后便直接去了京都，不会返程。选择了小田急电铁，从新宿到小田原。这段线路的车分为快速急行、急行和各駅停车三种。我们随机坐了急行。  但座位的舒适度一般，而且真的很挤。本来带了个饼干打算在一个多小时的路途中吃掉，但是人挤人的坐着，我竟然没有好意思拿出来。因此建议介意的朋友，可以再花点钱升级成小田急“浪漫”特快。  趁着到站人都下去后，偷偷照了一张。    终于到了小田原        箱根登山巴士共有9条线路，用不同字母表示。  要在这里换乘箱根登山巴士去往桃源台。    我们要坐的就是T线路    还有时间，在等车的时候，找了家店买了面包吃。    上车啦~车前方的大屏幕上是票价显示板，显示了各站上车相应的车费。单买票的话真不便宜呢。不过买了富士箱根周游券，只要下车时给司机出示一下就行。      下了车就看到了芦之湖湖面上的海贼船和路边厚厚的积雪。      按照导航绕了一个大坡，到了我们的酒店---芦之湖一之汤。  酒店的入住时间是15点以后，还有些时间。因此我们把行李放在接待处，办理了入住，便又返回桃源台站，准备坐箱根空中缆车。  这个时候坐缆车的人并不算多，我们两人包了一个车。  站台后面就是芦之湖。据说天气好的时候，甚至能在缆车上看到富士山，可惜天气不好，我没有看到。  但失落的是，由于箱根火山活动，著名景点大涌谷关闭……我的硫磺烟雾和温泉黑鸡蛋呀 ~缆车也只能坐一站：桃源台-姥子。没办法从天上看到大涌谷喷出的袅袅火山烟了。  一站很快就到了，姥子，海拔878米。    姥子到早云山则由巴士代替 。    到了早云山，海拔750米。    山上有个大大的“大”字，不知是什么说法。  这里我们转乘箱根登山缆车。    到了强罗，逛了逛街边小店，都是卖各种纪念品和食品。这边有很多富士山造型的饼干，很可爱，也有本地特色 。    富士箱根周游券还包含了强罗公园的门票，但天气太冷，我们就果断放弃了。    买的小吃，黏黏糯糯的。    强罗，海拔541米。继续坐箱根登山电车到箱根汤本。      就这样，箱根的几种交通工具已经做得差不多了。  为了赶时间回酒店吃晚饭，选择坐箱根登山巴士到元箱根，然后做海贼观光船回桃源台。然而，希望总是美好的，现实却是残酷的。到了元箱根，刚刚错过了最后一班船，和最后一班绕湖回酒店的公交。冬天的箱根交通工具休息得好早呀 。    这时天色渐暗，于是没有选择，只能原路返回。  还意外发现一个寺庙  无奈，几经辗转，绕了好大一个圈。中途还在伸手不见五指的路上换了公交，当时真担心汽车不来或者司机没有看到我……  好在，我们终于赶在晚饭结束前，回到酒店。先进房间看一看。    赠送的茶点~    浴衣    然后马上去了餐厅。这是今晚的菜单。  左边是三道小菜，右边是一之汤豆腐。这边的豆腐超好吃。    主菜是猪肉涮涮锅    蟹肉蒸丸  天妇罗，比目鱼和蘑菇    最后还有一份冰激凌球。吃的算是满足。离开餐厅，看到了放在前台的提示，竟然会有野猪出没， 可惜没有遇到。    先前忘记说了，酒店为每个房间的客人提供了40分钟的免费私人露天温泉，只需要把你的房间号写在分好时段的小黑板上，到时大家就根据自己预定的时间直接进入就好。有两个露天温泉。    饭后回屋等待我们的温泉时间~    时间一到我们准时下楼。  金泉の汤  本以为40分钟的时间太短，殊不知水温太烫，在水里泡了不到十分钟就受不了了。    烫的我胳膊都红了   提前结束泡温泉，回到屋里换上浴衣去拍照 。        D6：芦之湖-元箱根港-箱根汤本-强罗-早云山-姥子-芦之湖-河口湖  早餐---锅    鱼丸和豆腐汤  还有烤鱼、生鸡蛋、三种小菜、纳豆、海苔等~纳豆真心不爱吃，很拉丝，好像过期变质的食物……  由于酒店退房时间是上午10点，吃完早饭后我们便把行李拉到接待台，办理了退房。接着一路走到桃源台，乘坐昨天没有坐到的箱根海贼观光船。  游船有三种：RoyalⅡ 南欧皇家太阳号、胜利号和Vasa 北欧狮瓦萨王号（如下图）    准备上船~我们坐的是胜利号。    上船啦，还有个宝箱     木质椅子    门后是头等舱，一个人都没有。    屏幕显示现在的位置    天气不错，就是冷  到站，元箱根    船头    下船先买一个冰激凌      漂亮的小屋子    一排小屋子对面，不知道是不是祭祀的地方。    接着坐登山巴士K线路  到了箱根汤本      然后把昨天做过的登山电车、登山缆车、空中缆车反方向又做了一遍。  登山电车（箱根汤本--强罗）      坐在了驾驶员后面的位置，可以清楚的看到驾驶员的操控台和前方的风景。      登山缆车（强罗--早云山）  快到早云山时，天空开始飘起雪花。    空中缆车（姥子--桃源台）    回到桃源台去酒店拿了箱子，一路小跑又回到了桃源台坐小田急中央高速巴士去御殿场，还好勉强赶上。中央高速巴士终点是新宿，中转御殿场。比我们来时选择的小田急电铁舒服。  在御殿场转车时候看到的队伍，不知道是做什么的。    时间原因，此次不得不舍弃御殿场奥特莱斯，而是直接转车富士急巴士去了本次日本之行最期待的地方--河口湖。  等车时很冷，买了热饮。（自动贩卖机好高级，还有热的 ）只不过热饮是拿一次性纸杯装的，不太方便。很烫，还没来得及喝，车就到了。      快到时候，就能看到身边矗立的富士山，但当地人习以为常，很是淡定。终于到了河口湖，下了车，我看到覆盖着白雪的富士山就坐落在我面前，真的是好激动！  很壮观也无遮挡，本来想停下来拍几张照片，但想到我们的酒店更是看山的好地方，明天有的是时间再拍。这时天色也已渐晚，手中又拉着箱子，于是什么都没拍。我想，如果能预见到明天的情况，我一定会放下箱子先照几张吧，即使不这样，也会好好看看这座富士山…………      今晚住的是整个日本行中最贵的酒店---富士吟景。在河口湖火车站大厅，给酒店打电话，没过多久，一辆面包车就接上我们来到酒店。  等待办理入住，会有服务人员送上饮料，确认用餐时间。  大厅  一切办好，服务员带领我们来到房间。我选择的是和室。我们屋子有一面落地窗，窗外就是河口湖，湖后面就是富士山。    行李放到屋里后，直接去吃晚饭了。餐厅在二楼。    需要换拖鞋进入  这扇大窗户就正对着富士山~期待白天快点到来。  按照印有姓氏的座位牌入座  今晚的菜单  入座时部分菜品已经摆好在餐桌上了。看起来很是精致。  下面我努力按照菜单给大家还原一下菜品，有可能有错误，还请各位指正 。  味增豆腐和蟹肉，我真的超级爱吃这边的豆腐~ 还有一朵美美的“冬梅”。  酢物－海藻加工面、野菜砧卷和藕片  【八寸】    烤黄狮鱼配蘑菇  南瓜  香菇寿司  山菜贝肉  刺身（金枪鱼、虾、鱵鱼、墨鱼）    漂亮的器皿  梅子素面  鸡肉锅（蟹腿、鯥科鱼、鸡肉丸、贝、蔬菜）    烤猪肉      【金目淡雪】白鲑鱼丸  双色饭--紫苏鱼干饭  漬物    海鲷清汤  日式果冻、苹果慕斯、布丁    一顿下来真是种享受~相信一般食量的人肯定能吃的饱饱哒。  离开餐厅前的一刹那，我看到一张本周天气预报的单子，瞬间石化：一周都是晴天，除了明天--大雪。也就是说，我期待的明早阳光灿烂、富士倒影映在湖面的景象要化为乌有了……此刻我的内心阴影面积好大。  再回房间时，服务生已经把床铺好。  准备下楼到宾馆门前看一下    放在酒店入口处的木屐  酒店门口正对着河口湖和富士山。可惜天色已暗，除了积集的雪堆，什么都看不到。    此时富士山已被厚厚的云挡住了，但它的右侧出现的金光，亮了一夜，不知道是什么。    顶层右边第二间应该就是我们的房间  回到屋内，发现云变薄，富士山的真身若隐若现。    站在阳台，发现夜晚在积雪和灯光的映衬下，很美。    沏了一杯茶    酒店可以借浴衣。选好后可以再配一条自己喜欢颜色的腰带。    特色的地灯    往里走就是泡温泉的入口了，男女分开。      再换一套~纠结，本身喜欢黑底桃花，但为了有反差，最终选择浅色了。事实证明，我适合深色~      自动贩卖机里选中它们      男宾、女宾还分别有两个温泉--室内和室外。而且这里比一天前的温泉舒服多了，温度合适，环境也好。  室内温泉      室外温泉  在宾馆顶层，需要上楼梯到达。其实冬天湿着身子再爬层楼，还是挺冷的。但一切都是值得的，这里晚上抬头就是星星，白天前看就是富士山（虽然我没有看到 ）。    晚上一个人还是挺害怕的...  泡完温泉，还可以梳梳头、抹抹油，梳妆打扮一下 。  晚安！     河口湖篇   D7：山中湖-河口湖  昨天晚上就得知今天会有大雪，但还是抱有一丝希望。为了看到映在湖面上的富士山，清晨五点天还没亮，我就满怀期待的起床了，结果。。。多云，几乎看不到山。  不甘心还查了河口湖的天气预报：整个一周，天天大晴天，唯独今天，多云转大雪……好后悔昨天在箱根还坐电车、缆车。真该一起床就直奔河口湖，那样还能在屋里美美的欣赏湖水、雪山和倒影。    时间一分一秒的过去了，然而，近在咫尺的富士山依旧被厚厚的云挡得严严实实。此刻天完全亮了。  一晃，早餐时间已到。与昨天晚餐一样的位置。菜品依旧是丰富、精致。  但我一直盯着餐厅的玻璃，希望看到哪怕一刹那的富士山。                吃着吃着，透过玻璃我看到一群人在酒店右侧的马路上拍照。莫非……果不其然，几分钟后，我们眼前的云也突然变薄，富士山也渐渐展露真身~  虽然眼前是一顿味觉、视觉都很令人享受的早餐，但我还是毫不犹豫的飞奔回自己房间。叮~~  虽然眼前的山依旧被薄云遮盖，也并没有期待中的阳光明媚。但鉴于今天的大雪天气，在九点退房前能看到此般景象的富士山，我已经很欣慰了。  突然间，挡在富士山前面的云几乎消失了！！！这时，我真的有一种人品大爆发的感觉，马上换上酒店的浴衣。咔咔咔~为了防止玻璃反光，我只好站在阳台照相。此时外面的只有几度，我也是蛮拼的吧。    开心死了！但我知道持续不了多久，于是一通狂拍。  拉近  倒影  全景  室内    终于，十分钟后，厚厚的乌云又将山挡住了。而此时，也到了我们退房的时间。酒店发了￥500日元的代金券，可以在餐厅或礼品店消费。我就添了点钱，买了富士山形状的饼干。按照规定，9:30酒店的大巴车会统一送退房的客人回河口湖车站。当然也可以选择等到10:00退房后自行过去。但这时候的富士山已经被乌云遮盖住了，而且贪图方便，就和大部队一起离开了酒店。也正式宣告这趟旅行中最享受的日子已经结束了。  到了河口湖火车站，厚厚的积雪覆盖铁轨。      这是我今天最后一眼见到富士山了……  此后的天，灰蒙蒙，完全看不到山。回想起，昨天，同样的地方，我该有多么后悔没有好好的看一看它。现在想来，大雾大雪中闪现的富士山，真不知是一种遗憾，还是一份惊喜。但这里成了我此次日本之旅最难忘的地方。当然，能称之为最难忘，肯定还有其他原因……这个留到后面再说。      按照计划，我们今晚会乘坐夜行巴士离开河口湖，明天清晨到达京都。以防临时买票会售罄，在来日本之前，已在网上订了夜行巴士的车票和座位。所以我们打算白天在周边看一看，晚上回来坐车去京都。先把把全部箱子寄存在火车站，￥700日元/箱子。  河口湖站，857米。  进入月台后，发现有各式各样的火车。  我们乘坐的就是这种火车。坐富士急线两站到达富士山站。    富士山站，809米。  除雪的人    不知道富士山站是不是离富士山最近的一站。但做攻略时得知这个季节不能爬山，所以就没再关注。何况今天的天气，连山都看不到呢。  路过某地      好厚的积雪。不知道车主是会等雪化了再开车，还是先铲雪 。    其实大冬天漫无目的的在马路上走并没有意思，因此，只能吃了。熟不知我们竟然奇葩了吃了日本汉堡 。  看着就…………没有胃口     茶壶盖好特别。。。    天气太冷，我们也没什么地方想去。准备下一站富士急游乐园时，竟然来了一辆N&#39;EX。  很多人都在这个位置拿着相机对着缓缓驶来的它一阵狂拍，我也凑个热闹。  这车是从成田机场一路开来的，终点站是河口湖。  车上很暖和，也舒服，我们就直接坐回了河口湖。时间真是闲 。    到站，接着准备换车去富士急游乐园。我们的车竟然是フジサン特急，应该是富士山特快吧。      格外抢眼，不知道是不是专车或者限时版。        我在整理照片的时候，无意间发现了旁边停着Thomas Land Train，应该是小朋友的最爱。    富士急游乐园站很小，刚下车就听到一阵阵尖叫。过山车、鬼屋都不敢玩，所以我们就近近的，看了看……天气晴好时，背景就是富士山。想象一下都觉得很壮观。  我已很久没见过这样的雪了。    时间富余，在火车线旁边的车站等巴士，去了富士五湖中的山中湖。一路上，天越来越阴，雪也渐渐大了起来。我们也不知道该坐到哪里，就开着谷歌地图，猜测着随便一站下车。  山中湖旭日丘  下车时，雪已经很大了，湖面都快看不清了。      和那里著名的鸭子船照了相后，匆匆回到车站，准备离开。    回到河口湖车站，同样的位置，却只能脑补一下富士山了    河口湖火车站除了卖票，还有纪念品店和餐厅。我打算在这里等到晚上，再做夜行巴士去京都。吃饭是最好的打发时间的方式。点了咖喱、乌冬面和冰激凌。      本来想点一款富士山冰激凌，可惜卖光了。    从下午四点耗到晚上九点并不轻松，因为除了吃饭，实在不知道还能做什么。闲翻车站摆放的旅游资料时，我突然看到了河口湖冬季烟火大会。从2016年1月16日到2月21日的每个星期的周六和周日,及2月23日(星期二)在河口湖畔燃放焰火。时间从每晚的8点到8点20分。今天不正是周六嘛！真不知是一种遗憾，还是一份惊喜。遗憾的是，如果今晚住在酒店，透过房间的落地窗，或是泡着露天温泉，能够在正中的位置欣赏雪山、湖水、焰火。惊喜的是，只在河口湖短暂停留的我们，竟能赶上这一年一度的节日。  查了一下放焰火的地方，在夜行巴士来之前，除去来回路程，我们有十分钟的时间欣赏一下河口湖的烟花~于是我们跟着导航走了15分钟，到了离河口湖火车站最近的烟花点。小路漆黑安静，真怕出现日本变态杀人魔 。通往目的地的路上，还要走过一片墓地……  还没走到，就听到了烟花绽开的声音。这时我是多么希望能在富士吟景再住一晚，泡着露天汤池看烟火，那景色一定是极好的。  雪越下越大，为了不耽误夜行巴士，我们缩短了看烟花的时间，拍了五分钟的烟花，不舍得离开了。    笑脸  胡萝卜？    回去的路上还在便利店买了些吃的喝的。  车站等车  好美的夜晚          火车也结束今天的运营了。    此时候车厅几乎没有几个人了。  接着，悲剧的事情来了。我们等呀等，车都不来，直到候车大厅的电子屏幕都关了。一问工作人员才得知，由于大雪，夜行巴士被取消了………此刻我的内心阴影面积好大 。竟然没有人通知，而且直到显示屏关闭前，还写着夜行巴士到达时间和班次。  与工作人员交涉，却被告知她们负责的是火车，夜行巴士不归她们管。还有一对来自新加坡的男女，也在寻求解决办法。交涉无果后，我们打算临时找个车站旁的旅馆住下，明天一早坐第一班巴士去三岛市，再从那里转新干线到京都。这已是到京都最快捷的方式了。  晚上十点半，我们拖着两个箱子，找了离车站最近的旅馆--河口湖站旅馆住下了。我们的房间竟然是这家旅馆最后一个房间，好险~  这一下，费用比计划要多出近2000人民币，好心疼。    这就是我们的房间了。连卫生间都要用公共的 。     京都篇   D8：河口湖-伏见稻荷大社  一睁眼，本应落地京都的我，我抱着一线希望看了看富士山。一抹云遮在山头，算是它另一种样子吧。  早早退房，最后照一张旅馆门口的照片留个纪念。    到了车站大厅，买了河口湖到三岛市的巴士票。等车时，看到了昨天一起误夜行巴士的新加坡旅客，还有几个车站工作人员站在他们身边，好像在道歉。于是我们走过去了解情况，才从女孩口中得知，车站免了他们从河口湖到三岛市的巴士票。我们就去询问了售票大厅的负责人。她态度很好，得知我们的情况后，马上道歉，并让一个男员工（昨天没有帮我们解决问题的那个工作人员）给我们退钱。那位男员工假装才看见我们的样子，连忙说刚刚给那对新加坡旅客安排免费巴士的时候没看到我们。其实，呵呵，早晨在车站大厅我们已经对视过不止三次了。不管怎样，最终在车站负责人安排下，我们被鞠躬目送坐上了离开河口湖的汽车。负责人的诚恳道歉积极解决和男员工的虚情假意敷衍了事形成了鲜明的对比，也许这是造成他们地位不同的原因之一吧。  通过这件事情，我想和大家分享的经验是，在国外要学会维护自己的权益。    坐在车上再看一眼富士山。这云……好像发生了一场雪崩。      一路开向三岛市，汽车上只有我们和那对新加坡旅客。  到了三岛市    买票坐新干线到京都。  结果悲催的选择了一趟每站都停的车……虽然还是很快，但总觉得不够过瘾 。9:58出发，12:44到达。  我们的座位就是这里了。    看着窗外的城市和小镇，三个小时并不难熬。到了京都，好像更冷了。  先到京都综合旅游咨询服务所，买了京都巴士一日券。简单介绍一下，￥ 500 日元/人。凭劵可在一天内不限次数搭乘均一区间內的市巴士、京都巴士。均一区间的市巴士及京都巴士单次车费为￥ 230 日元，所以一天只要搭3次就回本，非常划算。    这个游客中心就在京都火车站内，很方便。  一出站最先看到了京都塔    本想去吃一顿早先查好的餐厅，拖着行李顶着寒风走了一阵子，发现，正在装修没开门 哎，去酒店办理入住吧。  坐车到了酒店，在一个小巷子里。  房间虽小，但很新。    淋浴间的墙是面大玻璃 方便欣赏。  还送了两瓶酒店标签的矿泉水  淋浴真的是亮点，功能钮很多。  放下行李，饥肠辘辘，在隔壁吃了牛肉饭套餐，便赶忙去了伏见稻荷大社。      京都站有直达巴士。可能因为车次少，很多人在排队。下车后我们特意查了一下回城的时刻表，半小时一趟。我们决定回去时要提前排队，因为人真的很多。万一车满了，就要在寒风中继续等很久。  先是一条商业街。我们选择返程时再逛。    楼门  荷田春满旧宅    本殿    社務所  玉山稻荷社              千本鸟居  原本计划好好逛一逛，爬到山顶走完全程。但实在是太冷了。    出来后的小道上依旧是各种小铺。买了鲷鱼烧、章鱼小丸子。      回到京都市内，已经天色渐暗。夜色中的京都塔。    在京都中央邮局买了张艺妓型的明信片。  喝杯咖啡暖暖身。日本人真是喜欢抹茶，连咖啡也不例外。  由于酒店门口就是新京极，回酒店时随便逛了一下。可惜太晚了，大部分店都关门了。无意间还走到了一家百元店，买了两个小杯子和蒸屉布……也是醉了。      锦天满宫  回到酒店，品尝了一下晚上提供的茶泡饭和茶水吧。  环境还不错  碗里是米饭  各种腌渍物  配料  最后倒入汤汁就可以吃啦    水吧：咖啡、茶    总之酒店提供的宵夜还是蛮有特色的，免费的已经很不错了。  吃完回房    继续吃了在无印良品买的糖         D9：清水寺-二年坂三年坂-袛园角-锦市场  今天本来是个很好的日子，但由于种种原因，这一天进入了疲劳期。  首先走到了四条大桥。      过了桥，顺着路一直走下去    到了八坂神社    水都结成冰柱了      屋顶上各种纸条，不知道是什么  瘟神社？   上午的游客并不多  舞殿    又一个“小水池”        从这个门出来  不知道这是不是民宅，看起来很美。  一家卖工艺品的小店，小院依旧别致    石塀小路      二年坂三年坂，这时路过一家餐厅，釜座，决定尝试。    荞麦面和天妇罗都很好吃    特写一下      由于到的比较早，我还点到了店里的生麸荞麦，每天只限20份~            真的很好吃~~离开前拍了一张她家的门口    吃饱后继续走走走。  看到很多网友在这里晒她们夏天来时的变装照，羡慕     复古的街道+人力车，毫无违和感。    往里走是興正寺霊山別院                以冷攻冷    到了清水寺，可惜，没有进去……  仁王门      三重塔    往回走时，路过的明星殿          回到了四条大桥    路过了锦天满宫，锦の水    外面太冷，早早回了酒店，晚上去楼下的松本清采购了一堆化妆品。  随便吃了顿饭，一天就结束了。          宇治篇   D10：放生院-宇治神社-宇治上神社-宇治桥-中村藤吉  经过昨天的调整，养精蓄锐，今天买票坐京阪电车从袛园四条去了宇治，￥310日元/人（单程），期间需要在中書岛换车。    宇治站  有特色的电话亭  好久没有见到这么宽敞畅通的路了    今天依旧没有太多的计划，打算随遇而安，但中村藤吉是一定要去的。  第一站，桥寺放生院    要想进院，先爬一个陡坡（我这是爬上去后从上往下照的 ）  院子很安静，我们是唯一的游客。    竟然有人拿hello kitty祭拜     一颗250岁的老树，高14米。    十二支守本尊？什么意思呢？为什么我只看到八个                     离开放生院，走在宇治的小路上。路边每家院子虽不大，植被却被安排的错落有致，修剪精巧。    正觉院？    末多武利神社      漂亮的下水井盖      宇治这个小城市很安静，舒服。    看到水面的冰了吗？  宇治川    继续走，到了宇治神社          祈祷木  顺着这条路不远处就是宇治上神社。招牌很抢眼。          字体好可爱  出来后沿着小路继续闲逛，前方就是源氏物语博物馆。  这是一口井吗   外面的庭院挺好看。看不懂日语，就没有进到博物院里面，但应该很有趣。  科普一下，《源氏物语》是11世纪初叶、平安时代中叶写成的长篇小说，共由五十四卷组成。作者是一名叫做紫式部的女性撰写的小说，对后世的日本作品产生了巨大的影响。《源氏物语》最后十卷的主要故事舞台为宇治。该博物馆展示了与《源氏物语》有关的日本建筑和风俗等。  这颗植物长得好奇怪  走到这里就要返回宇治桥，它的另一侧去喝茶。巧遇宅急送的送货车。    京都翔英高等学校-体育馆。空无一人，不知学生在上课还是正值假期。  宇治河  对面是奈良线    河水并不平静  宇治桥      穿过宇治桥，迫不及待来到中村藤吉本店---宇治的老字号抹茶店。      刚刚营业。应该是时间尚早的缘故，我们到的时候竟然不用等位。    生茶ゼリイ［抹茶］（不知道什么意思，有果子和冰激凌）  茶荞麦面  抹茶  中村茶  庭院离开时，等候的队伍已经壮大起来。临走前买了几包茶。  抬头一看，竟然有鹰。    路上看到一家超市，没忍住进去看了看，于是采购了一大袋子食物回京都。  中书岛换车  回到宾馆，开始吃宇治超市买回的各种小食。                 D11：京都-北京  今天就是要回家的日子了，也很开心。先从酒店做了公车到达火车站，京都公交汽车都是￥230日元/人次。  在京都火车站买了JR关西一日券。    一路向西      达到了关西机场      逛了优衣库，时间有限又买了些日本著名的小零食，再用剩下的钱吃了顿午饭。    妥妥的等待登机回京      </div>
+                                        <div class="plan">
+                        <p>
+                                                            <span>北京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>东京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>东京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>东京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>东京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>东京</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>箱根</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>箱根</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>富士河口湖</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>山中湖</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>富士河口湖</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>富士河口湖</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>京都</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>京都</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>京都</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>宇治市</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>京都</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>京都</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>大阪</span><img src="http://static.qyer.com/images/user2/index/xcd_icon_jt.png" width="6" height="9" alt="" class="vm ml5 mr5" />                                                            <span>北京</span>                                                    </p>
+                    </div>
+                                        <div class="icon">
+                        <span class="poi">3873</span>
+                        <span class="common">6</span>
+                        <span class="like">14</span>
+                    </div>
+                </a>
+            </div>
+                        
+            
+
+                
+                <div class="clear"></div>
+    </div>
+</div>
+<div class="clear"></div>
+    </div>
+</div>
+
+        <!--行程 -->
+        <!--行程列表 150915-->
+<div class="u_ind_item u_ind_item_plan" id="u_ind_item_plan" data-api="/planapi.php?action=getplanList" data-userid="2505246"></div>
+<!--/行程列表-->        <!--相册 -->
+        <div class="u_ind_item">
+    <div class="u_title">
+        <strong class="text">TA的照片</strong>
+         <a data-bn-ipg="usercenter-photo-more-top" target="_blank"  href="http://www.qyer.com/pictrip/2505246/" class="u_ind_more">更多</a>
+         <span class="number fr"><a data-bn-ipg="usercenter-photo-albumnum" target="_blank"  href="http://www.qyer.com/pictrip/2505246/">2</a>个微游记 <em>|</em> <a data-bn-ipg="usercenter-photo-num" target="_blank"  href="http://www.qyer.com/pictrip/2505246/"></a>张照片</span>
+              </div>
+           </div>
+ <script>
+ /* 相册大小定位 */
+ (function(){
+    var photoBox = $(".u_ind_photo");
+    var photoLayer = photoBox.find(".photo_list");
+    var photoImg = photoLayer.find(".img img");
+    photoImg.load(function(){
+        var thiz = $(this);
+        var thizWidth = thiz.width();
+        var thizHeight = thiz.height();
+        var layerWidth = thiz.parent().width();
+        var layerHeight = thiz.parent().height();
+
+        //设置默认宽度100%
+        thiz.css("width","100%");
+        var thizResetHeight = thiz.height();
+        var endTop = (thizResetHeight - layerHeight) / 2;
+        thiz.css("top",-endTop);
+
+        //如果高度小于容器高度则设置高度100%
+        thizHeight = thiz.height();
+        if(thizHeight < layerHeight){
+            thiz.css({"width":"","height":"100%"});
+            var thizResetWidth = thiz.width();
+            var endLeft = (thizResetWidth - layerWidth) / 2;
+            thiz.css({"top":"","left":-endLeft});
+        }
+    });
+ })();
+
+ </script>        <!--留言板 -->
+        <a name="msg"></a>
+        <div class="mt30">
+        <div id="mod_talks" class="mod_talk">
+    <div class="mod_talk_title fontYaHei">留言板</div>
+    <div class="mod_talk_edit">
+         <p class="mod_talk_edit_face" style="position: relative;">
+            <a href="http://www.qyer.com/"><img src="http://static.qyer.com/images/user2/avatar/big6.png" width="80" height="80" alt="" /></a>
+                    </p>
+         <div class="mod_talk_edit_cnt">
+             <form method="post" action="/ajax.php?action=addmessage" id="messageform" onsubmit="return false">
+             <p class="arrow"></p>
+             <p class="arrow2"></p>
+             <input name="belongid" type="hidden" value="2505246" />
+             <input name="replyid" type="hidden" value="" />
+             <p class="text_border"><textarea placeholder="我来过，我想说....." name="content" class="ui2_textarea" erroritem="#_jsmessagecnterror" tiplen="#_jsmessagecnttip" maxlen="500" minlen="2"></textarea></p>
+             <div class="btm clearfix">
+                 <div class="ui2_error_layer" style="display:none;" id="_jsmessagecnterror">
+                     <p class="ui2_error_layer_arrow"></p>
+                     <p class="ui2_error_layer_arrow2"></p>
+                     <p class="ui2_error_layer_text">至少写够2个字，最多不超过500字</p>
+                 </div>
+                 <p class="fr"><input type="submit" class="ui_buttonB" value="留言" /><input type="button" class="ui_button_load ui_buttonB" style="display:none" /></p>
+                 <p class="words"><span class="sum" id="_jsmessagecnttip">0</span> / 500 字</p>
+             </div>
+             </form>
+         </div>
+     </div>
+        <div class="clearfix mt20">
+        <div class="ui_page">
+            
+        </div>
+    </div>
+</div>
+<script language="javascript">
+    </script>
+<script language="javascript">
+var module_message = new Module_Message('{\"cnt\":{\"field\":\"content\",\"des\":\"\\u8bc4\\u8bba\",\"maxlen\":500,\"minlen\":2,\"chkadd\":true,\"chkedit\":true,\"placeholder\":\"\\u8bf4\\u8bf4\\u4f60\\u7684\\u60f3\\u6cd5\",\"errortips\":\"\"},\"addtime\":{\"field\":\"addtime\"},\"updatetime\":{\"field\":\"updatetime\"},\"belongid\":{\"field\":\"belongid\"},\"replyid\":{\"field\":\"replyid\"},\"pagesize\":10,\"type\":2}', $("#mod_talks"), $("#messageform"));
+</script>        </div>
+        <!--留言板 -->
+        <script>
+        $(function(){
+            //talk留言模块
+            var talks = $("#mod_talks");
+
+            //文本域focus事件
+            talks.find(".ui2_textarea").focus(function(){
+                $(this).addClass("ui2_focus");
+                $(this).removeClass("ui2_error");
+                $(this).parents("form").find(".ui2_error_layer").hide();
+            });
+
+            //文本域blur事件
+            talks.find(".ui2_textarea").blur(function(){
+                $(this).removeClass("ui2_focus");
+            });
+
+            //文本域字数统计
+            talks.find(".ui2_textarea").keyup(function(){
+                var size = $(this).val().length;
+                var sum = $(this).parents("form").find(".sum");
+                //console.log(size);
+                sum.text(size);
+                if(size > 30){
+                    sum.addClass("sum_error");
+                }
+                else {
+                    sum.removeClass("sum_error");
+                }
+            });
+
+            //item列表hover事件
+            talks.find(".mod_talk_list_item").hover(function(){
+                $(this).find(".handle").show();
+            },function(){
+                $(this).find(".handle").hide();
+            });
+
+            //reply回复 - 点击显示隐藏
+            // talks.find(".mod_talk_list_item").find(".reply").toggle(function(){
+            //     $(this).parents(".mod_talk_list_item").find(".mod_talk_list_reply").show().find("textarea").focus();
+            // },function(){
+            //     $(this).parents(".mod_talk_list_item").find(".mod_talk_list_reply").hide();
+            // });
+
+            //文本域高度自动伸展
+            talks.find(".ui2_textarea").bind("change", function(){
+                qyerUI.autoheight(this,{fontSize:"14px",lineHeight:"24px"});
+            });
+            talks.find(".ui2_textarea").bind("keydown", function(){
+                qyerUI.autoheight(this,{fontSize:"14px",lineHeight:"24px"});
+            });
+            talks.find(".ui2_textarea").bind("keyup", function(){
+                qyerUI.autoheight(this,{fontSize:"14px",lineHeight:"24px"});
+            });
+        });
+        </script>
+        <!-- 底部话术 -->
+        <div class="qui-intro">
+            <p>
+                <a href="http://www.qyer.com">穷游网</a>为<a href="http://www.qyer.com">旅行</a>者提供原创实用的<a href="http://www.qyer.com">出境游</a><a href="http://place.qyer.com">旅行指南</a>、<a href="http://bbs.qyer.com">旅行社区</a>和<a href="http://ask.qyer.com">问答</a>交流平台
+            </p>
+        </div>
+        <!-- 底部话术 end -->
+    </div>
+</div>
+<!--首页内容 -->
+<script>
+/**
+ * 认证头像图标tip
+ */
+$(function (){
+    requirejs(['web_old_tooltips'], function (){
+        $('[data-toggle="tooltip"]').tooltip({
+
+            container: 'body'
+        });
+    });
+});
+/* 相册大小定位 */
+$(function(){
+    var photoBox = $(".u_ind_photo");
+    var photoLayer = photoBox.find(".photo_list");
+    var photoImg = photoLayer.find(".img img");
+    photoImg.load(function(){
+        var thiz = $(this);
+        var thizWidth = thiz.width();
+        var thizHeight = thiz.height();
+        var layerWidth = thiz.parent().width();
+        var layerHeight = thiz.parent().height();
+
+        var endWidth = layerWidth - thizWidth;
+        var endHeight = layerHeight - thizHeight;
+
+        if(endWidth > endHeight){
+            thiz.css("width","100%");
+            var thizResetHeight = thiz.height();
+            var endTop = (thizResetHeight - layerHeight) / 2;
+            thiz.css("top",-endTop);
+        }
+
+        if(endWidth < endHeight){
+            thiz.css("height","100%");
+            var thizResetWidth = thiz.width();
+            var endLeft = (thizResetWidth - layerWidth) / 2;
+            thiz.css("left",-endLeft);
+        }
+
+    });
+});
+$(function(){
+    //头部大图
+    (function(){
+        var img = $('#u_ind_banner .img img');
+        var nav = $('.q-layer-header');
+        var valve = 340;
+
+        $(window).scroll(function(){
+            var scrTop = $(window).scrollTop();
+            if (scrTop<=valve) {
+                nav.css('top', 0);
+                img.css('top', scrTop/2 );
+            }
+            else {
+                nav.css('top', -50);
+            }
+        });
+        if ( /msg/.test(window.location) ) {
+            return false;
+        }
+        if (window.location.hash == "") {
+            setTimeout(function(){
+                var top = 300;
+                $("html,body").animate({scrollTop:top});
+            }, 1500);
+        }
+    })();
+
+
+    //来访用户
+    (function(){
+        var list = $("#visitor_list");
+        var items = list.find("li");
+        var prev = $("#visitor_prev");
+        var next = $("#visitor_next");
+        var size = items.size(); //item数量
+        var scn = size / 7;
+        scn = Math.ceil(scn); //可滚几屏
+        var scn_width = 270; //单个宽度
+        var sum_width = 40 * size; //总宽度
+        var index = 0; //索引
+
+        if(scn > 1){
+            list.width(sum_width);
+            prev.click(function(){
+                //console.log(index);
+                if(index > 0){
+                    index --;
+                    //console.log(index);
+                    next.removeClass("null");
+                    list.animate({left:-scn_width*index});
+                }
+                if(index == 0){
+                    $(this).addClass("null");
+                }
+            });
+            next.click(function(){
+                //console.log(index);
+                if(index < scn - 1){
+                    index ++;
+                    //console.log(index);
+                    prev.removeClass("null");
+                    list.animate({left:-scn_width*index});
+                }
+                if(index == scn - 1){
+                    $(this).addClass("null");
+                }
+            });
+        }
+    })();
+});
+</script>
+<script type="text/javascript" src="http://static.qyer.com/min/?version=1476167820&b=js&f=user2/index.js"></script>
+
+<div style="display: none;">http://www.qyer.com/</div>
+<div class="qyer_footer">
+	<div class="topline"></div>
+	<div class="content">
+		<p class="nav">
+			<a href="http://www.qyer.com/htmlpages/about.html" target="_blank" rel="nofollow" data-bn-ipg="foot-about-1">穷游简介</a>
+			<a href="http://www.qyer.com/partner/" target="_blank" rel="nofollow" data-bn-ipg="foot-about-3">合作伙伴</a>
+			<a href="http://www.qyer.com/job/" target="_blank" rel="nofollow" data-bn-ipg="foot-join-1">加入我们</a>
+			<a href="http://site.qyer.com/tyro/" target="_blank" rel="nofollow" data-bn-ipg="foot-help-1">新手上路</a>
+			<a href="http://bbs.qyer.com/forum-10-1.html" target="_blank" rel="nofollow" data-bn-ipg="foot-help-2">使用帮助</a>
+			<a href="http://www.qyer.com/sitemap.html" target="_blank" data-bn-ipg="foot-help-4">网站地图</a>
+			<a href="http://www.qyer.com/htmlpages/member.html" target="_blank" rel="nofollow" data-bn-ipg="foot-clause-1">会员条款</a>
+			<a href="http://www.qyer.com/htmlpages/bbsguide.html" target="_blank" rel="nofollow" data-bn-ipg="foot-clause-2">社区指南</a>
+			<a href="http://www.qyer.com/htmlpages/copyright.html" target="_blank" rel="nofollow" data-bn-ipg="foot-clause-3">版权声明</a>
+			<a href="http://www.qyer.com/htmlpages/exemption.html" target="_blank" rel="nofollow" data-bn-ipg="foot-clause-4">免责声明</a>
+			<a href="http://www.qyer.com/htmlpages/contact.html" target="_blank" rel="nofollow" data-bn-ipg="foot-about-2">联系我们</a>
+		</p>
+		<p class="info">2004-2016 &copy; 穷游网&reg;  qyer.com All rights reserved. Version v5.57  京ICP备12003524号  京公网安备11010102001935号  京ICP证140673号</p>
+    
+        <!--友情链接模块-->
+        
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+
+_gaq.push(["_setAccount", "UA-185023-1"]);
+_gaq.push(["_setDomainName", "qyer.com"]);
+_gaq.push(["_setSiteSpeedSampleRate",10]);
+_gaq.push(["_addIgnoredRef", "qyer.com"]);
+_gaq.push(["_addOrganic","soso","w"]);
+_gaq.push(["_addOrganic","sogou","query"]);
+_gaq.push(["_addOrganic","baidu","word"]);
+_gaq.push(["_addOrganic","baidu","q1"]);
+_gaq.push(["_addOrganic","baidu","q2"]);
+_gaq.push(["_addOrganic","m.baidu","word"]);
+_gaq.push(["_addOrganic","so.360","q"]);
+_gaq.push(["_addOrganic","so","q"]);
+_gaq.push(["_addOrganic","baidu","w"]);
+_gaq.push(["_addOrganic","cn.bing","q"]);
+_gaq.push(["_addOrganic","sm","q"]);
+_gaq.push(["_trackPageview"]);
+
+var _qyer_userid = "0";
+
+(function() {
+	
+var qt = document.createElement("script"); qt.type = "text/javascript"; qt.async = true;
+
+qt.src = "http://qt.qyer.com/beacon.js";
+
+var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+
+//ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+ga.src = "http://api.qyer.com/js/ga";
+
+
+//if("https:" == document.location.protocol){
+//    var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s); 
+//}else{
+    var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(qt, s); s.parentNode.insertBefore(ga, s); 
+//}
+
+})();
+
+</script>
+
+
+
+</body>
+</html>

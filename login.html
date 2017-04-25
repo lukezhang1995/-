@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>注册与登录</title>
+    <link rel="stylesheet" href="login.css"/>
+</head>
+<body>
+    <!--主体-->
+    <section>
+                <div id="register_login">
+									<div style="text-align: center">
+                    <img src="images/login.png" /><span>登陆</span>
+									</div>
+                    <div id="register_rg">
+						<ul>
+							<li><a href="#">邮箱注册</a></li>
+							<li><a href="#">手机注册</a></li>
+						</ul>
+						<form action="#" id='form' class="clear">
+						  <div class='box'>
+								<input id='ip1' class="lf" type="text" placeholder="+86" disabled>
+								<input id="ip2" class="lf" type="text" placeholder="输入用于登陆的手机号" required>
+              </div>
+						  <div class="box">
+								<input id="ip3" class="lf" type="text" placeholder="图片验证码" required>
+								<button class="lf" id='btn1'>图片验证码</button>
+								<b style="text-align:left" class="hidden">请输入图片识别码</b>
+						  </div>
+						  <div class="box">
+								<input id="ip4" class="lf" type="text" placeholder="输入短信中的验证码" required>
+								<button class="lf" id='btn1'>发送验证码</button>
+						  </div>
+						  <div class="box">
+								<input type="text" id="ip5" placeholder="起一个辨别度的用户名" required>
+								<b style="text-align:left" id="b1" class="hidden">请输入用户名</b>
+						  </div>
+							<div class="box">
+								<input type="text" id="ip6" placeholder="输入8-16位的密码，需包含字母及数字" required pattern="^[a-zA-Z0-9]{8,16}$">
+								<b style="text-align:left" id="b2" class="hidden">请输入密码</b>
+						  </div>
+						  <div class="box">
+								<button id="btn2">注册</button>
+								<span class="lf" id="sp1">已有穷游账号？<a href="#">登陆</a></span>
+								<span clsss="rt" id="sp2">同意<a href="#">会员条款</a>和<a href="#">免责声明</a></span>
+						  </div>
+						</form>
+                    </div>
+                </div>
+
+            <video autoplay loop id="vid">
+                <source src="video/World.mp4" />
+                <source src="video/World.ogv" />
+                <source src="video/World.webm" />
+                此浏览器不支持video标签
+            </video>
+    </section>
+		<script>
+					var ip6=document.getElementById("ip6");
+					var b2=document.getElementById("b2");
+					ip6.onfocus = function(){
+							b2.className="show";
+					}
+
+					ip6.onblur = function(){
+						if(ip6.validity.valid){
+							b2.className = "hidden";
+							b2.innerHTML = "密码正确."
+						}else if(ip6.validity.valueMissing){
+							b2.className = "hidden";
+							b2.innerHTML = "密码不能为空."
+						}else if(ip6.validity.patternMismatch){
+							b2.className = "hidden";
+							b2.innerHTML = "密码输入有误."
+						}
+					}
+
+		</script>
+</body>
+</html>

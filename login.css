@@ -1,0 +1,143 @@
+/*页面公共样式*/
+body{
+    /*margin,padding,字体：大小，字体，颜色*/
+    margin:0;
+    padding:0;
+    font:13px "microsoft yahei",Arial;
+    color:#666;
+	box-sizing:border-box;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+input{border:none;outline:none;}
+.lf{float:left;}
+.rt{float:right;}
+.clear{clear:both;}
+.box{height:60px; width:300px;}
+.box b{text-align:left; font-size:12px; color:red}
+.show{display:block;}
+.hidden{display:none;}
+a{
+    color:#666;
+    text-decoration:none;
+}
+
+ul{
+    list-style:none;
+}
+
+#register_login{
+    width:330px;
+    height:50px;
+
+    z-index:5;
+    margin:0 auto;
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#register_login img{
+    height:50px;
+    vertical-align:middle;
+	text-align:center;
+}
+#register_login span{
+    padding:5px;
+    font-size: 24px;
+    font-family: "Hiragino Sans GB","Microsoft YaHei","SimHei","SimSun",sans-serif;
+    color: #FFF;
+    vertical-align:middle;
+	text-align:center;
+}
+
+#vid{
+    position:relative;
+    width:100%;
+    z-index:3;
+}
+
+#register_rg{
+    margin-top:20px;
+    width:330px;
+	background:#ccc;
+	padding:10px;
+	height:445px;
+}
+#register_rg ul {
+	overflow:hidden;
+
+}
+#register_rg ul li{
+	width:145px;
+	float:left;
+	padding:10px;
+	height:30px;
+	line-height:30px;
+	border-bottom:1px solid #ddd;
+	text-align:center;
+}
+#register_rg ul li a{
+	font-size:18px;
+}
+#register_rg ul li:hover{
+	border-bottom:3px solid green;
+}
+#form{
+	padding:10px;
+}
+#ip1{
+	width:35px;
+	padding:5px;
+	height:25px;
+}
+#ip2{
+	width:240px;
+	padding:5px;
+	margin-left:5px;
+	height:25px;
+}
+#ip3,#ip4{
+	width:205px;
+	padding:5px;
+	height:25px;
+}
+#btn1{
+	height:35px;
+	margin-left:5px;
+	background:#3F9F5F;
+	border:0;
+	border-radius:3px;
+	color:#fff;
+}
+
+#ip5,#ip6{
+	margin-left:0;
+	width:290px;
+	padding:5px;
+	height:25px;
+	text-align:left;
+}
+#btn2{
+	width:300px;
+	height:35px;
+	background:#3F9F5F;	
+	border:0;
+	border-radius:3px;
+	color:#fff;
+} 
+div.box #sp1,div.box #sp2{
+	font-size:13px;
+	height:25px;
+	line-height: 25px;
+	padding:0;
+	color:#000;
+}
+div.box #sp1 a,div.box #sp2 a{
+	color:#3F9F5F;
+}
